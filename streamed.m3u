@@ -1,83 +1,203 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Jay Fairclough - Cade Birrell" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",06:10 AM - Jay Fairclough - Cade Birrell [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/jay-fairclough-cade-birrell
-#EXTINF:-1 tvg-name="Bridget Mihulka - Elicia Kim" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",06:10 AM - Bridget Mihulka - Elicia Kim [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/bridget-mihulka-elicia-kim
-#EXTINF:-1 tvg-name="Stella Kovacicova - Ana Cristiana Mocanu" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",06:00 AM - Stella Kovacicova - Ana Cristiana Mocanu [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/stella-kovacicova-ana-cristiana-mocanu
-#EXTINF:-1 tvg-name="MA Dolores Carbo Chova - Melissa Boyden" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",06:00 AM - MA Dolores Carbo Chova - Melissa Boyden [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/ma-dolores-carbo-chova-melissa-boyden
-#EXTINF:-1 tvg-name="Lautaro A.Corthey - Zeteny Paragi" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",06:00 AM - Lautaro A.Corthey - Zeteny Paragi [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/lautaro-a-corthey-zeteny-paragi
-#EXTINF:-1 tvg-name="Joshua Ward - Alex Blanchar" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",06:00 AM - Joshua Ward - Alex Blanchar [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/joshua-ward-alex-blanchar
-#EXTINF:-1 tvg-name="Felipe Mikkelsen - Merse Deli" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",06:00 AM - Felipe Mikkelsen - Merse Deli [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/felipe-mikkelsen-merse-deli
-#EXTINF:-1 tvg-name="Aneta Holubova - May Fadida" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",06:00 AM - Aneta Holubova - May Fadida [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/aneta-holubova-may-fadida
-#EXTINF:-1 tvg-name="Men's Volleyball: U-21 World Championship: Poland vs South Korea" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",06:00 AM - Men's Volleyball: U-21 World Championship: Poland vs South Korea [Hotel] - (22/08/2025)
-https://streamed.pk/api/stream/hotel/men-s-volleyball-u-21-world-championship-poland-vs-south-korea
-#EXTINF:-1 tvg-name="Men's Volleyball: U-21 World Championship China 2025: Poland vs Puerto Rico" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",06:00 AM - Men's Volleyball: U-21 World Championship China 2025: Poland vs Puerto Rico [Hotel] - (22/08/2025)
-https://streamed.pk/api/stream/hotel/men-s-volleyball-u-21-world-championship-china-2025-poland-vs-puerto-rico
-#EXTINF:-1 tvg-name="Czechia tour of Romania: Romania vs Czechia" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",06:00 AM - Czechia tour of Romania: Romania vs Czechia [Charlie] - (22/08/2025)
-https://streamed.pk/api/stream/charlie/romania-vs-czechia-1629456861
-#EXTINF:-1 tvg-name="USA U21 vs Turkey U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",06:00 AM - USA U21 vs Turkey U21 [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/usa-u21-vs-turkey-u21
-#EXTINF:-1 tvg-name="Poland U21 vs South Korea U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",06:00 AM - Poland U21 vs South Korea U21 [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/poland-u21-vs-south-korea-u21
-#EXTINF:-1 tvg-name="Brazil U21 vs Colombia U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",06:00 AM - Brazil U21 vs Colombia U21 [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/brazil-u21-vs-colombia-u21
-#EXTINF:-1 tvg-name="Monterrey Grandstand: Caty McNally/Linda Noskova vs Gabriela Dabrowski/Erin Routliffe" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",05:10 AM - Monterrey Grandstand: Caty McNally/Linda Noskova vs Gabriela Dabrowski/Erin Routliffe [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/monterrey-grandstand-caty-mcnally-linda-noskova-vs-gabriela-dabrowski-erin-routliffe
-#EXTINF:-1 tvg-name="Y.Chung/S.Kwon - Yi Jui Lo/Bang Shuo Yin" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",05:03 AM - Y.Chung/S.Kwon - Yi Jui Lo/Bang Shuo Yin [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/y-chung-s-kwon-yi-jui-lo-bang-shuo-yin
-#EXTINF:-1 tvg-name="T.H.Huang/T.Ichikawa - C-P.Hsieh/Y.Mochizuki" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",05:00 AM - T.H.Huang/T.Ichikawa - C-P.Hsieh/Y.Mochizuki [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/t-h-huang-t-ichikawa-c-p-hsieh-y-mochizuki
-#EXTINF:-1 tvg-name="G.Dabrowski/E.Routliffe - R.Sramkova/L.Noskova" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",05:00 AM - G.Dabrowski/E.Routliffe - R.Sramkova/L.Noskova [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/g-dabrowski-e-routliffe-r-sramkova-l-noskova
-#EXTINF:-1 tvg-name="Duncan McCall - Joshua Ryan" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",04:50 AM - Duncan McCall - Joshua Ryan [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/duncan-mccall-joshua-ryan
-#EXTINF:-1 tvg-name="Kuma Ito - Haruto Ishikawa" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",04:45 AM - Kuma Ito - Haruto Ishikawa [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/kuma-ito-haruto-ishikawa
-#EXTINF:-1 tvg-name="Rohan Hazratwala - Zachary Adam-Gedge" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",04:30 AM - Rohan Hazratwala - Zachary Adam-Gedge [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/rohan-hazratwala-zachary-adam-gedge
-#EXTINF:-1 tvg-name="Australia vs South Africa" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",04:30 AM - Australia vs South Africa [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/australia-vs-south-africa
-#EXTINF:-1 tvg-name="Australia vs South Africa" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",04:30 AM - Australia vs South Africa [Charlie] - (22/08/2025)
-https://streamed.pk/api/stream/charlie/australia-vs-south-africa-1629454684
-#EXTINF:-1 tvg-name="Australia vs South Africa" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",04:30 AM - Australia vs South Africa [Echo] - (22/08/2025)
-https://streamed.pk/api/stream/echo/australia-south-africa-2nd-odi-cricket-1
-#EXTINF:-1 tvg-name="Australia vs South Africa" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",04:30 AM - Australia vs South Africa [Hotel] - (22/08/2025)
-https://streamed.pk/api/stream/hotel/2nd-odi-australia-vs-south-africa
-#EXTINF:-1 tvg-name="Australia vs South Africa" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",04:30 AM - Australia vs South Africa [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/australia-south-africa
-#EXTINF:-1 tvg-name="Kaylah Mcphee - Naomi Mckenzie" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",04:00 AM - Kaylah Mcphee - Naomi Mckenzie [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/kaylah-mcphee-naomi-mckenzie
-#EXTINF:-1 tvg-name="Cara Korhonen - Belle Thompson" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",04:00 AM - Cara Korhonen - Belle Thompson [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/cara-korhonen-belle-thompson
-#EXTINF:-1 tvg-name="Antonia Ruzic - Marie Bouzkova" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:30 AM - Antonia Ruzic - Marie Bouzkova [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/antonia-ruzic-marie-bouzkova
-#EXTINF:-1 tvg-name="Minor League Baseball: Fresno Grizzlies at San Jose Giants" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Baseball",03:30 AM - Minor League Baseball: Fresno Grizzlies at San Jose Giants [Hotel] - (22/08/2025)
-https://streamed.pk/api/stream/hotel/minor-league-baseball-fresno-grizzlies-at-san-jose-giants
-#EXTINF:-1 tvg-name="Scott Jones - Noah Brownrigg" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:15 AM - Scott Jones - Noah Brownrigg [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/scott-jones-noah-brownrigg
-#EXTINF:-1 tvg-name="Benjamin O'Connell - Zane Stevens" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:15 AM - Benjamin O'Connell - Zane Stevens [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/benjamin-o-connell-zane-stevens
-#EXTINF:-1 tvg-name="AmeriCup: Dominican Republic vs Colombia" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Basketball",03:10 AM - AmeriCup: Dominican Republic vs Colombia [Hotel] - (22/08/2025)
-https://streamed.pk/api/stream/hotel/americup-dominican-republic-vs-colombia
-#EXTINF:-1 tvg-name="Men's Volleyball: U-21 World Championship: Bulgaria vs Japan" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",03:00 AM - Men's Volleyball: U-21 World Championship: Bulgaria vs Japan [Hotel] - (22/08/2025)
-https://streamed.pk/api/stream/hotel/men-s-volleyball-u-21-world-championship-bulgaria-vs-japan
-#EXTINF:-1 tvg-name="WTA Monterrey vs Court 1 Dabrowski/Routliffe - Noskova/Sramkova" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:00 AM - WTA Monterrey vs Court 1 Dabrowski/Routliffe - Noskova/Sramkova [Bravo] - (22/08/2025)
-https://streamed.pk/api/stream/bravo/1755831600000-wta-monterrey-court-1-dabrowski-routliffe-noskova-sramkova
-#EXTINF:-1 tvg-name="National Rugby League Women: Canterbury-Bankstown Bulldogs W vs Canberra Raiders W" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Rugby",02:45 AM - National Rugby League Women: Canterbury-Bankstown Bulldogs W vs Canberra Raiders W [Hotel] - (22/08/2025)
-https://streamed.pk/api/stream/hotel/national-rugby-league-women-canterbury-bankstown-bulldogs-w-vs-canberra-raiders-w
-#EXTINF:-1 tvg-name="WTA Monterrey vs Center Court Ruzic - Bouzkova" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",02:30 AM - WTA Monterrey vs Center Court Ruzic - Bouzkova [Bravo] - (22/08/2025)
-https://streamed.pk/api/stream/bravo/1755829800000-wta-monterrey-center-court-ruzic-bouzkova
-#EXTINF:-1 tvg-name="Angel City vs Orlando Pride" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAJD9sIXqG4aQEXLtN8QKC7oLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football",02:30 AM - Angel City vs Orlando Pride [Hotel] - (22/08/2025)
-https://streamed.pk/api/stream/hotel/nwsl-angel-city-vs-orlando-pride
-#EXTINF:-1 tvg-name="Angel City vs Orlando Pride" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAJD9sIXqG4aQEXLtN8QKC7oLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football",02:30 AM - Angel City vs Orlando Pride [Intel] - (22/08/2025)
-https://streamed.pk/api/stream/intel/angel-city-orlando-pride
+#EXTINF:-1 tvg-name="USA Volleyball Women vs Slovenia Volleyball Women" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:30 PM - USA Volleyball Women vs Slovenia Volleyball Women [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/usa-w-vs-slovenia-w
+#EXTINF:-1 tvg-name="Brazil Volleyball Women vs Greece Volleyball Women" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:30 PM - Brazil Volleyball Women vs Greece Volleyball Women [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/brazil-w-vs-greece-w
+#EXTINF:-1 tvg-name="Ararat Yerevan vs Pyunik Yerevan" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:30 PM - Ararat Yerevan vs Pyunik Yerevan [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/ararat-yerevan-pyunik-yerevan
+#EXTINF:-1 tvg-name="ONE Friday Fights 121 Tengnueng vs Bakhtin" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBDUBTEDBCJeILCBIhN0gyCOHzLJBSwi5jFGFUoe78o21jP+KzAYO7iYhBAA.webp" group-title="Fight",12:30 PM - ONE Friday Fights 121 Tengnueng vs Bakhtin [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/one-friday-fights-121
+#EXTINF:-1 tvg-name="DPMM vs Terengganu" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKnEFJg0hDpC8QWECRAQQ0kIkvHrLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",12:15 PM - DPMM vs Terengganu [Hotel] - (22/08/2025)
+https://streamed.pk/api/stream/hotel/malaysia-super-league-dpmm-fc-vs-terengganu
+#EXTINF:-1 tvg-name="DPMM vs Terengganu" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKnEFJg0hDpC8QWECRAQQ0kIkvHrLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football",12:15 PM - DPMM vs Terengganu [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/brunei-dpmm-terengganu
+#EXTINF:-1 tvg-name="MotoGP Hungary GP: Moto2 FP2" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",12:05 PM - MotoGP Hungary GP: Moto2 FP2 [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/motogp-hungary-gp-moto2-fp2
+#EXTINF:-1 tvg-name="Max Houkes - Michael Agwi" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",12:00 PM - Max Houkes - Michael Agwi [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/max-houkes-michael-agwi
+#EXTINF:-1 tvg-name="Javier Barranco Cosano - Sergi Perez Contri" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",12:00 PM - Javier Barranco Cosano - Sergi Perez Contri [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/javier-barranco-cosano-sergi-perez-contri
+#EXTINF:-1 tvg-name="Carlos Sanchez Jover - Benjamin Winter Lopez" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",12:00 PM - Carlos Sanchez Jover - Benjamin Winter Lopez [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/carlos-sanchez-jover-benjamin-winter-lopez
+#EXTINF:-1 tvg-name="Women's Speed Chess Championship 2025 - Final" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:00 PM - Women's Speed Chess Championship 2025 - Final [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/women-s-speed-chess-championship-2025-final
+#EXTINF:-1 tvg-name="Tunisia U21 vs Indonesia U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:00 PM - Tunisia U21 vs Indonesia U21 [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/tunisia-u21-vs-indonesia-u21
+#EXTINF:-1 tvg-name="Italy U21 vs Ukraine U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:00 PM - Italy U21 vs Ukraine U21 [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/italy-u21-vs-ukraine-u21
+#EXTINF:-1 tvg-name="Italy U21 vs Ukraine U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:00 PM - Italy U21 vs Ukraine U21 [Hotel] - (22/08/2025)
+https://streamed.pk/api/stream/hotel/international-fivb-jr-world-championship-men-pool-d-italy-vs-ukraine
+#EXTINF:-1 tvg-name="Argentina U21 vs France U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:00 PM - Argentina U21 vs France U21 [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/argentina-u21-vs-france-u21
+#EXTINF:-1 tvg-name="Argentina U21 vs France U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:00 PM - Argentina U21 vs France U21 [Hotel] - (22/08/2025)
+https://streamed.pk/api/stream/hotel/international-fivb-jr-world-championship-men-pool-d-argentina-vs-france
+#EXTINF:-1 tvg-name="TOUR Championship: Bradley & Matsuyama Featured Groups (Second Round)" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",12:00 PM - TOUR Championship: Bradley & Matsuyama Featured Groups (Second Round) [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/tour-championship-bradley-matsuyama-featured-groups-second-round
+#EXTINF:-1 tvg-name="TOUR Championship: Bradley & Matsuyama Featured Groups (Second Round)" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",12:00 PM - TOUR Championship: Bradley & Matsuyama Featured Groups (Second Round) [Charlie] - (22/08/2025)
+https://streamed.pk/api/stream/charlie/tour-championship-featured-group-second-round-1629456877
+#EXTINF:-1 tvg-name="CPKC Women's Open Second Round" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",12:00 PM - CPKC Women's Open Second Round [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/cpkc-women-s-open-second-round
+#EXTINF:-1 tvg-name="CPKC Women's Open Second Round" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",12:00 PM - CPKC Women's Open Second Round [Bravo] - (22/08/2025)
+https://streamed.pk/api/stream/bravo/1755864000000-cpkc-women-s-open
+#EXTINF:-1 tvg-name="CPKC Women's Open Second Round" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",12:00 PM - CPKC Women's Open Second Round [Charlie] - (22/08/2025)
+https://streamed.pk/api/stream/charlie/cpkc-womens-open-second-round-1629456870
+#EXTINF:-1 tvg-name="CPKC Women's Open Second Round" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",12:00 PM - CPKC Women's Open Second Round [Echo] - (22/08/2025)
+https://streamed.pk/api/stream/echo/cpkc-womens-open-second-round-lpga-tour-golf-atp1000
+#EXTINF:-1 tvg-name="Rafferty vs Chamberlain: Weigh-In" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",12:00 PM - Rafferty vs Chamberlain: Weigh-In [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/rafferty-vs-chamberlain-weigh-in
+#EXTINF:-1 tvg-name="Nongbua Pitchaya vs Kasetsart" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 PM - Nongbua Pitchaya vs Kasetsart [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/nongbua-pitchaya-kasetsart
+#EXTINF:-1 tvg-name="Rayong vs Nakhon Ratchasima" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 PM - Rayong vs Nakhon Ratchasima [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/rayong-nakhon-ratchasima
+#EXTINF:-1 tvg-name="Dewa United Banten vs Persik Kediri" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 PM - Dewa United Banten vs Persik Kediri [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/dewa-united-persik-kediri
+#EXTINF:-1 tvg-name="Oleksandr Ovcharenko - Juan Cruz Martin Manzano" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:30 AM - Oleksandr Ovcharenko - Juan Cruz Martin Manzano [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/oleksandr-ovcharenko-juan-cruz-martin-manzano
+#EXTINF:-1 tvg-name="F.Agamenone/F.Roncadelli - D.Pichler/N.Serdarusic" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:30 AM - F.Agamenone/F.Roncadelli - D.Pichler/N.Serdarusic [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/f-agamenone-f-roncadelli-d-pichler-n-serdarusic
+#EXTINF:-1 tvg-name="Betfred British Masters Presented By Nick Faldo - DP World Tour" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",11:30 AM - Betfred British Masters Presented By Nick Faldo - DP World Tour [Echo] - (22/08/2025)
+https://streamed.pk/api/stream/echo/betfred-british-masters-presented-by-nick-faldo-dp-world-tour-rocket-golf
+#EXTINF:-1 tvg-name="Betfred British Masters Presented By Nick Faldo - DP World Tour" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",11:30 AM - Betfred British Masters Presented By Nick Faldo - DP World Tour [Hotel] - (22/08/2025)
+https://streamed.pk/api/stream/hotel/dp-world-tour-betfred-british-masters-presented-by-nick-faldo
+#EXTINF:-1 tvg-name="Betfred British Masters" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",11:30 AM - Betfred British Masters [Bravo] - (22/08/2025)
+https://streamed.pk/api/stream/bravo/1755862200000-betfred-british-masters
+#EXTINF:-1 tvg-name="Betfred British Masters" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",11:30 AM - Betfred British Masters [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/betfred-british-masters
+#EXTINF:-1 tvg-name="The Betfred British Masters Second Round SKY" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",11:30 AM - The Betfred British Masters Second Round SKY [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/the-betfred-british-masters-second-round-sky
+#EXTINF:-1 tvg-name="Hangzhou Linping Wuyue vs Wenzhou FC" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",11:30 AM - Hangzhou Linping Wuyue vs Wenzhou FC [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/hangzhou-linping-wuyue-wenzhou-professional-fc
+#EXTINF:-1 tvg-name="Arthur Nagel - Gregor Ramskogler" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:19 AM - Arthur Nagel - Gregor Ramskogler [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/arthur-nagel-gregor-ramskogler
+#EXTINF:-1 tvg-name="V.Cornea/P.Niklas-Salminen - S.Sakellaridis/Pe.Tsitsipas" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:00 AM - V.Cornea/P.Niklas-Salminen - S.Sakellaridis/Pe.Tsitsipas [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/v-cornea-p-niklas-salminen-s-sakellaridis-pe-tsitsipas
+#EXTINF:-1 tvg-name="Stella Kovacicova - Melissa Boyden" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:00 AM - Stella Kovacicova - Melissa Boyden [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/stella-kovacicova-melissa-boyden
+#EXTINF:-1 tvg-name="P.Araujo/D.Marques - J.J.Bianchi/D.Milavsky" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:00 AM - P.Araujo/D.Marques - J.J.Bianchi/D.Milavsky [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/p-araujo-d-marques-j-j-bianchi-d-milavsky
+#EXTINF:-1 tvg-name="Oscar Otte - Marvin Moeller" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:00 AM - Oscar Otte - Marvin Moeller [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/oscar-otte-marvin-moeller
+#EXTINF:-1 tvg-name="Bor Artnak - Sebastian Sorger" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:00 AM - Bor Artnak - Sebastian Sorger [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/bor-artnak-sebastian-sorger
+#EXTINF:-1 tvg-name="Lanzhou Longyuan Athletic vs Guangdong Mingtu" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",11:00 AM - Lanzhou Longyuan Athletic vs Guangdong Mingtu [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/lanzhou-longyuan-guangdong-mingtu
+#EXTINF:-1 tvg-name="Hellenic Athletic vs Casuarina" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",11:00 AM - Hellenic Athletic vs Casuarina [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/hellenic-athletic-casuarina
+#EXTINF:-1 tvg-name="Louis Wessels - Christian Djonov" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",10:59 AM - Louis Wessels - Christian Djonov [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/louis-wessels-christian-djonov
+#EXTINF:-1 tvg-name="P.Kaukovalta/E.Vasa - T.Milovanov/K.Tumbas Kajgo" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",10:44 AM - P.Kaukovalta/E.Vasa - T.Milovanov/K.Tumbas Kajgo [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/p-kaukovalta-e-vasa-t-milovanov-k-tumbas-kajgo
+#EXTINF:-1 tvg-name="Terezia Perhacova - Eszter Dorka Finak" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",10:30 AM - Terezia Perhacova - Eszter Dorka Finak [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/terezia-perhacova-eszter-dorka-finak
+#EXTINF:-1 tvg-name="Kilian Feldbausch - Remy Bertola" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",10:30 AM - Kilian Feldbausch - Remy Bertola [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/kilian-feldbausch-remy-bertola
+#EXTINF:-1 tvg-name="Francesco Forti - Luciano Emanuel Ambrogi" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",10:30 AM - Francesco Forti - Luciano Emanuel Ambrogi [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/francesco-forti-luciano-emanuel-ambrogi
+#EXTINF:-1 tvg-name="M.Hermans/T.Pereira - A.Jecan/B.Pavel" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",10:20 AM - M.Hermans/T.Pereira - A.Jecan/B.Pavel [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/m-hermans-t-pereira-a-jecan-b-pavel
+#EXTINF:-1 tvg-name="Zdenek Kolar - Cedrik-Marcel Stebe" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",10:10 AM - Zdenek Kolar - Cedrik-Marcel Stebe [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/zdenek-kolar-cedrik-marcel-stebe
+#EXTINF:-1 tvg-name="Port Adelaide Power vs Gold Coast Suns" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",10:10 AM - Port Adelaide Power vs Gold Coast Suns [Echo] - (22/08/2025)
+https://streamed.pk/api/stream/echo/port-adelaide-power-vs-gold-coast-suns-australian-football-3264
+#EXTINF:-1 tvg-name="Port Adelaide Power vs Gold Coast Suns" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",10:10 AM - Port Adelaide Power vs Gold Coast Suns [Hotel] - (22/08/2025)
+https://streamed.pk/api/stream/hotel/afl-port-adelaide-power-vs-gold-coast-suns
+#EXTINF:-1 tvg-name="Port Adelaide Power vs Gold Coast Suns" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",10:10 AM - Port Adelaide Power vs Gold Coast Suns [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/port-adelaide-power-gold-coast-suns
+#EXTINF:-1 tvg-name="A.Barroso Campos/B.Oliveira - R.Izquierdo Luque/I.Marrero Curbelo" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",10:08 AM - A.Barroso Campos/B.Oliveira - R.Izquierdo Luque/I.Marrero Curbelo [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/a-barroso-campos-b-oliveira-r-izquierdo-luque-i-marrero-curbelo
+#EXTINF:-1 tvg-name="Dominik Kellovsky - Niklas Schell" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",10:00 AM - Dominik Kellovsky - Niklas Schell [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/dominik-kellovsky-niklas-schell
+#EXTINF:-1 tvg-name="ICC CWC Challenge League A: Papua New Guinea vs Denmark" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",10:00 AM - ICC CWC Challenge League A: Papua New Guinea vs Denmark [Charlie] - (22/08/2025)
+https://streamed.pk/api/stream/charlie/papua-new-guinea-vs-denmark-1629454685
+#EXTINF:-1 tvg-name="ICC CWC Challenge League A: Papua New Guinea vs Denmark" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",10:00 AM - ICC CWC Challenge League A: Papua New Guinea vs Denmark [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/papua-new-guinea-denmark
+#EXTINF:-1 tvg-name="Belgium Volleyball Women vs Cuba Volleyball Women" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",10:00 AM - Belgium Volleyball Women vs Cuba Volleyball Women [Hotel] - (22/08/2025)
+https://streamed.pk/api/stream/hotel/world-championship-women-belgium-w-vs-cuba-w
+#EXTINF:-1 tvg-name="Netherlands Volleyball Women vs Sweden Volleyball Women" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",10:00 AM - Netherlands Volleyball Women vs Sweden Volleyball Women [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/netherlands-w-vs-sweden-w
+#EXTINF:-1 tvg-name="Netherlands Volleyball Women vs Sweden Volleyball Women" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",10:00 AM - Netherlands Volleyball Women vs Sweden Volleyball Women [Hotel] - (22/08/2025)
+https://streamed.pk/api/stream/hotel/world-championship-women-netherlands-w-vs-sweden-w
+#EXTINF:-1 tvg-name="Kashiwa Reysol vs Urawa Red Diamonds" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRQhR+EFNghuekH22GTuEFakmCwJBT7DZmsCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",10:00 AM - Kashiwa Reysol vs Urawa Red Diamonds [Bravo] - (22/08/2025)
+https://streamed.pk/api/stream/bravo/1755856800000-kashiwa-reysol-urawa-reds
+#EXTINF:-1 tvg-name="Kashiwa Reysol vs Urawa Red Diamonds" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRQhR+EFNghuekH22GTuEFakmCwJBT7DZmsCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",10:00 AM - Kashiwa Reysol vs Urawa Red Diamonds [Charlie] - (22/08/2025)
+https://streamed.pk/api/stream/charlie/kashiwa-reysol-vs-urawa-1324212
+#EXTINF:-1 tvg-name="Kashiwa Reysol vs Urawa Red Diamonds" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRQhR+EFNghuekH22GTuEFakmCwJBT7DZmsCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",10:00 AM - Kashiwa Reysol vs Urawa Red Diamonds [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/kashiwa-reysol-urawa-reds
+#EXTINF:-1 tvg-name="Melbourne Storm vs Canterbury Bankstown Bulldogs" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPgn5gZOEiG4gpICIZCITfEChCWFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Rugby",10:00 AM - Melbourne Storm vs Canterbury Bankstown Bulldogs [Bravo] - (22/08/2025)
+https://streamed.pk/api/stream/bravo/1755856800000-melbourne-storm-canterbury-bulldogs
+#EXTINF:-1 tvg-name="Melbourne Storm vs Canterbury Bankstown Bulldogs" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPgn5gZOEiG4gpICIZCITfEChCWFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Rugby",10:00 AM - Melbourne Storm vs Canterbury Bankstown Bulldogs [Echo] - (22/08/2025)
+https://streamed.pk/api/stream/echo/melbourne-storm-vs-canterbury-bulldogs-game-13-04
+#EXTINF:-1 tvg-name="Melbourne Storm vs Canterbury Bankstown Bulldogs" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPgn5gZOEiG4gpICIZCITfEChCWFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Rugby",10:00 AM - Melbourne Storm vs Canterbury Bankstown Bulldogs [Hotel] - (22/08/2025)
+https://streamed.pk/api/stream/hotel/national-rugby-league-melbourne-storm-vs-canterbury-bulldogs
+#EXTINF:-1 tvg-name="Melbourne Storm vs Canterbury Bankstown Bulldogs" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPgn5gZOEiG4gpICIZCITfEChCWFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Rugby",10:00 AM - Melbourne Storm vs Canterbury Bankstown Bulldogs [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/melbourne-storm-canterbury-bulldogs
+#EXTINF:-1 tvg-name="Road to UFC Season 4 Episode 6" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoJIh4YaSCwg9vfSC1aDIU4ZAxLLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Fight",10:00 AM - Road to UFC Season 4 Episode 6 [Admin] - (22/08/2025)
+https://streamed.pk/api/stream/admin/ppv-road-to-ufc-s-4-episode-6-semifinals-n
+#EXTINF:-1 tvg-name="Road to UFC Season 4 Episode 6" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoJIh4YaSCwg9vfSC1aDIU4ZAxLLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Fight",10:00 AM - Road to UFC Season 4 Episode 6 [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/road-to-ufc-s4-episode-6-semifinal
+#EXTINF:-1 tvg-name="Road to UFC Season 4 Episode 6" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoJIh4YaSCwg9vfSC1aDIU4ZAxLLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Fight",10:00 AM - Road to UFC Season 4 Episode 6 [Charlie] - (22/08/2025)
+https://streamed.pk/api/stream/charlie/road-to-ufc-s4-episode-5-and-6-or-semifinals-1629459338
+#EXTINF:-1 tvg-name="Hubli Tigers - Gulbarga Mystics" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",09:45 AM - Hubli Tigers - Gulbarga Mystics [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/hubli-tigers-gulbarga-mystics
+#EXTINF:-1 tvg-name="Queensland QAS (F) - Gold Coast United (F)" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",09:30 AM - Queensland QAS (F) - Gold Coast United (F) [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/queensland-qas-f-gold-coast-united-f-
+#EXTINF:-1 tvg-name="Queensland Lions (F) - Souths United (F)" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",09:30 AM - Queensland Lions (F) - Souths United (F) [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/queensland-lions-f-souths-united-f-
+#EXTINF:-1 tvg-name="Brisbane City (F) - Sunshine Coast Wanderers (F)" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",09:30 AM - Brisbane City (F) - Sunshine Coast Wanderers (F) [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/brisbane-city-f-sunshine-coast-wanderers-f-
+#EXTINF:-1 tvg-name="Box Hill United (F) - Spring Hills FC (F)" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",09:30 AM - Box Hill United (F) - Spring Hills FC (F) [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/box-hill-united-f-spring-hills-fc-f-
+#EXTINF:-1 tvg-name="Pakistan A - Nepal" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",09:30 AM - Pakistan A - Nepal [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/pakistan-a-nepal
+#EXTINF:-1 tvg-name="Noida Super Kings - Kanpur Superstar" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",09:30 AM - Noida Super Kings - Kanpur Superstar [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/noida-super-kings-kanpur-superstar
+#EXTINF:-1 tvg-name="Tiago Cacao - Rodrigo Fernandes" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",09:30 AM - Tiago Cacao - Rodrigo Fernandes [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/tiago-cacao-rodrigo-fernandes
+#EXTINF:-1 tvg-name="Sydney FC Youth vs Blacktown City" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",09:30 AM - Sydney FC Youth vs Blacktown City [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/sydney-fc-tineret-blacktown-city
+#EXTINF:-1 tvg-name="Matej Dodig - Alex Molcan" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",09:10 AM - Matej Dodig - Alex Molcan [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/matej-dodig-alex-molcan
+#EXTINF:-1 tvg-name="AFL: Collingwood Magpies vs Melbourne Demons" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",09:10 AM - AFL: Collingwood Magpies vs Melbourne Demons [Hotel] - (22/08/2025)
+https://streamed.pk/api/stream/hotel/afl-collingwood-magpies-vs-melbourne-demons
+#EXTINF:-1 tvg-name="AFL: Collingwood Magpies vs Melbourne Demons" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",09:10 AM - AFL: Collingwood Magpies vs Melbourne Demons [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/collingwood-magpies-melbourne-demons
+#EXTINF:-1 tvg-name="Alleppey Ripples - Thrissur Titans" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",09:00 AM - Alleppey Ripples - Thrissur Titans [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/alleppey-ripples-thrissur-titans
+#EXTINF:-1 tvg-name="Mirza Basic - Branko Djuric" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",09:00 AM - Mirza Basic - Branko Djuric [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/mirza-basic-branko-djuric
+#EXTINF:-1 tvg-name="Michele Ribecai - Arthur Bellegy" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",09:00 AM - Michele Ribecai - Arthur Bellegy [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/michele-ribecai-arthur-bellegy
+#EXTINF:-1 tvg-name="Maximilian Neuchrist - Jeffrey V.D. Schulenburg" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",09:00 AM - Maximilian Neuchrist - Jeffrey V.D. Schulenburg [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/maximilian-neuchrist-jeffrey-v-d-schulenburg
+#EXTINF:-1 tvg-name="Maximilian Figl - Maxime Janvier" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",09:00 AM - Maximilian Figl - Maxime Janvier [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/maximilian-figl-maxime-janvier
+#EXTINF:-1 tvg-name="Lucas Gerch - Flynn Thomas" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",09:00 AM - Lucas Gerch - Flynn Thomas [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/lucas-gerch-flynn-thomas
+#EXTINF:-1 tvg-name="Eva Maria Ionescu - Matilde Jorge" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",09:00 AM - Eva Maria Ionescu - Matilde Jorge [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/eva-maria-ionescu-matilde-jorge
+#EXTINF:-1 tvg-name="Eero Vasa - Viacheslav Bielinskyi" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",09:00 AM - Eero Vasa - Viacheslav Bielinskyi [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/eero-vasa-viacheslav-bielinskyi
+#EXTINF:-1 tvg-name="Bianca Elena Barbulescu - Mia Ristic" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",09:00 AM - Bianca Elena Barbulescu - Mia Ristic [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/bianca-elena-barbulescu-mia-ristic
+#EXTINF:-1 tvg-name="B.Arias/J.C.Prado Angelo - J.Barnat/F.Duda" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",09:00 AM - B.Arias/J.C.Prado Angelo - J.Barnat/F.Duda [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/b-arias-j-c-prado-angelo-j-barnat-f-duda
+#EXTINF:-1 tvg-name="NPB Baseball :: Fukuoka vs Nippon Ham Fighters" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Baseball",09:00 AM - NPB Baseball :: Fukuoka vs Nippon Ham Fighters [Hotel] - (22/08/2025)
+https://streamed.pk/api/stream/hotel/npb-baseball-fukuoka-vs-nippon-ham-fighters
+#EXTINF:-1 tvg-name="Puerto Rico Volleyball Women vs France Volleyball Women" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",09:00 AM - Puerto Rico Volleyball Women vs France Volleyball Women [Hotel] - (22/08/2025)
+https://streamed.pk/api/stream/hotel/world-championship-women-puerto-rico-w-vs-france-w
+#EXTINF:-1 tvg-name="Puerto Rico Volleyball Women vs France Volleyball Women" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",09:00 AM - Puerto Rico Volleyball Women vs France Volleyball Women [Intel] - (22/08/2025)
+https://streamed.pk/api/stream/intel/puerto-rico-w-france-w
+#EXTINF:-1 tvg-name="Yomiuri Giants vs Yokohama DeNA BayStars" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAKowQcJHJDcQUkBBBmzhviBI7cBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Baseball",09:00 AM - Yomiuri Giants vs Yokohama DeNA BayStars [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/yakult-swallows-vs-yomiuri-giants
+#EXTINF:-1 tvg-name="Tohoku Rakuten Golden Eagles vs Orix Buffaloes" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMUQQQGgAwhuIKSG06dhvkbNSCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Baseball",09:00 AM - Tohoku Rakuten Golden Eagles vs Orix Buffaloes [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/rakuten-gold-eagles-vs-orix-buffaloes
+#EXTINF:-1 tvg-name="Chiba Lotte Marines vs Saitama Seibu Lions" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBlJgUhKBDcQUkBBBmzhvkZBWQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Baseball",09:00 AM - Chiba Lotte Marines vs Saitama Seibu Lions [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/chiba-lotte-marines-vs-seibu-lions
+#EXTINF:-1 tvg-name="MotoGP 2025 - GP of Hungary" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",08:45 AM - MotoGP 2025 - GP of Hungary [Delta] - (22/08/2025)
+https://streamed.pk/api/stream/delta/live-event_motogp-2025-gp-of-hungary-live-stream
+#EXTINF:-1 tvg-name="MotoGP 2025 - GP of Hungary" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",08:45 AM - MotoGP 2025 - GP of Hungary [Echo] - (22/08/2025)
+https://streamed.pk/api/stream/echo/motogp-round-14-hungary-motogp-1
 #EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQiFRBCaYIfMpDlVelgoN1FIDYk0M+LMHREMpRfCQhMekvkLCF3foA.webp" group-title="24/7 Live",Fight Network
 https://streamed.pk/api/stream/foxtrot/678fd97c8d98ade1299c33d8
 #EXTINF:-1 tvg-name="Marquee Sports Network" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQiFRBCaYIcsp2rFqhUpSazSuvsv4aWPjMlSw+EhCY9JfIc9GEIQA.webp" group-title="24/7 Live",Marquee Sports Network
@@ -86,26 +206,14 @@ https://streamed.pk/api/stream/foxtrot/678fd8508d98ade1299c32c8
 https://streamed.pk/api/stream/foxtrot/678fd7a78d98ade1299c3269
 #EXTINF:-1 tvg-name="NFL REDZONE" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoiKtmlCDohEK-Ao3KQMEPnOWDBmmiTUYaGZKlh8JCEx6S+Qj1FCCCA.webp" group-title="24/7 Live",NFL REDZONE
 https://streamed.pk/api/stream/foxtrot/67055bb1e04765cdd3240384
-#EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",ESPN First Take
-https://streamed.pk/api/stream/alpha/espn-first-take
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggY6rSE37dIBUs2J8O7SpQh4NYEiwzJUsPhIQmPSXyGvRhCCA.webp" group-title="24/7 Live",NBA TV
-https://streamed.pk/api/stream/alpha/nba-tv
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggY6rSE37dIBUs2J8O7SpQh4NYEiwzJUsPhIQmPSXyGvRhCCA.webp" group-title="24/7 Live",NBA TV
-https://streamed.pk/api/stream/foxtrot/6570a866bae85135f61b12d1
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",Darts TV: All Darts Championship
 https://streamed.pk/api/stream/alpha/darts-tv-all-darts-championship
 #EXTINF:-1 tvg-name="PGA Tour 2025" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",PGA Tour 2025
 https://streamed.pk/api/stream/alpha/pga-tour-2025
 #EXTINF:-1 tvg-name="NBC Golf Channel" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",NBC Golf Channel
 https://streamed.pk/api/stream/alpha/nbc-golf-channel
-#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggYITXWUgUqncoWG1Kw-mN7N5GsCRYZkqWHwkITHpL5C3owgggA.webp" group-title="24/7 Live",NFL Network
-https://streamed.pk/api/stream/alpha/nfl-network
-#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggYITXWUgUqncoWG1Kw-mN7N5GsCRYZkqWHwkITHpL5C3owgggA.webp" group-title="24/7 Live",NFL Network
-https://streamed.pk/api/stream/foxtrot/6570a839bae85135f61b12cb
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQiFRGUgUWkOR2IYihSsQbtiOpssoaYOYUoxJUsPhIQmPSXyGvRhCCA.webp" group-title="24/7 Live",ESPN
-https://streamed.pk/api/stream/alpha/espn
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQiFRGUgUWkOR2IYihSsQbtiOpssoaYOYUoxJUsPhIQmPSXyGvRhCCA.webp" group-title="24/7 Live",ESPN
-https://streamed.pk/api/stream/foxtrot/678fd5e48d98ade1299c318b
+#EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",Fox NRL TV
+https://streamed.pk/api/stream/alpha/fox-nrl-tv
 #EXTINF:-1 tvg-name="LFC TV | Liverpool FC TV" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",LFC TV | Liverpool FC TV
 https://streamed.pk/api/stream/alpha/lfc-tv-liverpool-fc-tv
 #EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
@@ -114,16 +222,12 @@ https://streamed.pk/api/stream/alpha/sky-sports-news-ssn-breaking-sports-news
 https://streamed.pk/api/stream/alpha/cleveland-open
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",Tennis Channel
 https://streamed.pk/api/stream/alpha/tennis-channel
-#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggYITfh1b9SlAr3a1SlZdU6aWPjMlSw+EhCY9JfIc9GEIQA.webp" group-title="24/7 Live",NHL Network
-https://streamed.pk/api/stream/alpha/nhl-network
-#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggYITfh1b9SlAr3a1SlZdU6aWPjMlSw+EhCY9JfIc9GEIQA.webp" group-title="24/7 Live",NHL Network
-https://streamed.pk/api/stream/foxtrot/6580da5fe46bd243f3850a4d
-#EXTINF:-1 tvg-name="Fox NRL TV" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",Fox NRL TV
-https://streamed.pk/api/stream/alpha/fox-nrl-tv
 #EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",WWE Network
 https://streamed.pk/api/stream/alpha/wwe-network
 #EXTINF:-1 tvg-name="DAZN Boxing | DAZN PPV Boxing" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",DAZN Boxing | DAZN PPV Boxing
 https://streamed.pk/api/stream/alpha/dazn-boxing-dazn-ppv-boxing
+#EXTINF:-1 tvg-name="UFC Events | UFC MMA | UFC PPV" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",UFC Events | UFC MMA | UFC PPV
+https://streamed.pk/api/stream/alpha/ufc-events-ufc-mma-ufc-ppv
 #EXTINF:-1 tvg-name="MotoGP Qualifying | MotoGP Main Race" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",MotoGP Qualifying | MotoGP Main Race
 https://streamed.pk/api/stream/alpha/motogp-qualifying-motogp-main-race
 #EXTINF:-1 tvg-name="DAZN Formula 1 | DAZN F1" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",DAZN Formula 1 | DAZN F1
@@ -134,110 +238,24 @@ https://streamed.pk/api/stream/alpha/sky-sports-f1-sky-f1
 https://streamed.pk/api/stream/alpha/mlb-network
 #EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoiLVWlMpD49A0Bq2JEKxEvI1gSLDMlSw+EhCY9JfIc9GEIQA.webp" group-title="24/7 Live",MLB Network
 https://streamed.pk/api/stream/foxtrot/6570a88ebae85135f61b12d7
-#EXTINF:-1 tvg-name="MotoGP Hungary GP: MotoE FP1" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",06:30 AM - MotoGP Hungary GP: MotoE FP1 [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/motogp-hungary-gp-motoe-fp1
-#EXTINF:-1 tvg-name="Hawke&apos;s Bay vs Canterbury" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Rugby",07:10 AM - Hawke&apos;s Bay vs Canterbury [Echo] - (22/08/2025)
-https://streamed.pk/api/stream/echo/hawkeaposs-bay-vs-canterbury-rugby-49033
-#EXTINF:-1 tvg-name="Deutsche Tourenwagen Masters: Sachsenring: Qualifying 1" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",07:10 AM - Deutsche Tourenwagen Masters: Sachsenring: Qualifying 1 [Charlie] - (22/08/2025)
-https://streamed.pk/api/stream/charlie/sachsenring-qualifying-1-1629456863
-#EXTINF:-1 tvg-name="Hawkes Bay vs Canterbury" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVmSghtYKSG4g+ICIdwhEOPXpIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Rugby",07:10 AM - Hawkes Bay vs Canterbury [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/hawke-s-bay-vs-canterbury
-#EXTINF:-1 tvg-name="Hawkes Bay vs Canterbury" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVmSghtYKSG4g+ICIdwhEOPXpIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Rugby",07:10 AM - Hawkes Bay vs Canterbury [Bravo] - (22/08/2025)
-https://streamed.pk/api/stream/bravo/1755846600000-hawke-s-bay-canterbury
-#EXTINF:-1 tvg-name="Hawkes Bay vs Canterbury" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVmSghtYKSG4g+ICIdwhEOPXpIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Rugby",07:10 AM - Hawkes Bay vs Canterbury [Charlie] - (22/08/2025)
-https://streamed.pk/api/stream/charlie/hawkes-bay-vs-canterbury-1629456862
-#EXTINF:-1 tvg-name="Crossfire | Day 4" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",07:30 AM - Crossfire | Day 4 [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/crossfire-day-4
-#EXTINF:-1 tvg-name="Aurora Media Worldwide: Silverstone Festival 2025, Day 1" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",08:00 AM - Aurora Media Worldwide: Silverstone Festival 2025, Day 1 [Charlie] - (22/08/2025)
-https://streamed.pk/api/stream/charlie/silverstone-festival-2025-day-1-1629456864
-#EXTINF:-1 tvg-name="Penrith Panthers vs Canberra Raiders" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAyUx3XGB06pICCEOJjfEChDWJTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Rugby",08:00 AM - Penrith Panthers vs Canberra Raiders [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/penrith-panthers-vs-canberra-raiders
-#EXTINF:-1 tvg-name="Penrith Panthers vs Canberra Raiders" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAyUx3XGB06pICCEOJjfEChDWJTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Rugby",08:00 AM - Penrith Panthers vs Canberra Raiders [Bravo] - (22/08/2025)
-https://streamed.pk/api/stream/bravo/1755849600000-penrith-panthers-canberra-raiders
-#EXTINF:-1 tvg-name="Penrith Panthers vs Canberra Raiders" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAyUx3XGB06pICCEOJjfEChDWJTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Rugby",08:00 AM - Penrith Panthers vs Canberra Raiders [Echo] - (22/08/2025)
-https://streamed.pk/api/stream/echo/penrith-panthers-vs-canberra-raiders-rugby-7
-#EXTINF:-1 tvg-name="MotoGP 2025 - GP of Hungary" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",08:45 AM - MotoGP 2025 - GP of Hungary [Delta] - (22/08/2025)
-https://streamed.pk/api/stream/delta/live-event_motogp-2025-gp-of-hungary-live-stream
-#EXTINF:-1 tvg-name="MotoGP 2025 - GP of Hungary" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",08:45 AM - MotoGP 2025 - GP of Hungary [Echo] - (22/08/2025)
-https://streamed.pk/api/stream/echo/motogp-round-14-hungary-motogp-1
-#EXTINF:-1 tvg-name="AFL: Essendon vs Carlton" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="American Football",09:00 AM - AFL: Essendon vs Carlton [Charlie] - (22/08/2025)
-https://streamed.pk/api/stream/charlie/essendon-vs-carlton-1629456865
-#EXTINF:-1 tvg-name="Czech Republic U21 vs Cuba U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",09:00 AM - Czech Republic U21 vs Cuba U21 [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/czech-republic-u21-vs-cuba-u21
-#EXTINF:-1 tvg-name="China U21 vs Morocco U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",09:00 AM - China U21 vs Morocco U21 [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/china-u21-vs-morocco-u21
-#EXTINF:-1 tvg-name="Canada U21 vs Kazakhstan U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",09:00 AM - Canada U21 vs Kazakhstan U21 [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/canada-u21-vs-kazakhstan-u21
-#EXTINF:-1 tvg-name="Czech Republic Volleyball Women vs Argentina Volleyball Women" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",09:00 AM - Czech Republic Volleyball Women vs Argentina Volleyball Women [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/czech-republic-w-vs-argentina-w
-#EXTINF:-1 tvg-name="Puerto Rico Volleyball Women vs France Volleyball Women" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",09:00 AM - Puerto Rico Volleyball Women vs France Volleyball Women [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/puerto-rico-w-vs-france-w
-#EXTINF:-1 tvg-name="Yomiuri Giants vs Yokohama DeNA BayStars" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAKowQcJHJDcQUkBBBmzhviBI7cBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Baseball",09:00 AM - Yomiuri Giants vs Yokohama DeNA BayStars [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/yakult-swallows-vs-yomiuri-giants
-#EXTINF:-1 tvg-name="Hiroshima Toyo Carp vs Chunichi Dragons" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBQgYIFGL4huIKSAghz5owbNaUBYEgp9hs+ijAq9bD+XpZZeky0YB5iohBAA.webp" group-title="Baseball",09:00 AM - Hiroshima Toyo Carp vs Chunichi Dragons [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/hiroshima-carp-vs-chunichi-dragons
-#EXTINF:-1 tvg-name="Hokkaido Nippon-Ham Fighters vs Fukuoka SoftBank Hawks" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAa24g4WbCC1SQEECZNa+IQyYVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Baseball",09:00 AM - Hokkaido Nippon-Ham Fighters vs Fukuoka SoftBank Hawks [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/nippon-ham-fighters-vs-fukuoka-s-hawks
-#EXTINF:-1 tvg-name="Chiba Lotte Marines vs Saitama Seibu Lions" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBlJgUhKBDcQUkBBBmzhvkZBWQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Baseball",09:00 AM - Chiba Lotte Marines vs Saitama Seibu Lions [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/chiba-lotte-marines-vs-seibu-lions
-#EXTINF:-1 tvg-name="Tohoku Rakuten Golden Eagles vs Orix Buffaloes" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMUQQQGgAwhuIKSG06dhvkbNSCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Baseball",09:00 AM - Tohoku Rakuten Golden Eagles vs Orix Buffaloes [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/rakuten-gold-eagles-vs-orix-buffaloes
-#EXTINF:-1 tvg-name="Collingwood Magpies vs Melbourne Demons" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",09:10 AM - Collingwood Magpies vs Melbourne Demons [Echo] - (22/08/2025)
-https://streamed.pk/api/stream/echo/collingwood-magpies-vs-melbourne-demons-australian-football-3260
-#EXTINF:-1 tvg-name="Pakistan Shaheens vs Nepal" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",09:30 AM - Pakistan Shaheens vs Nepal [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/pakistan-shaheens-vs-nepal
-#EXTINF:-1 tvg-name="ICC CWC Challenge League A: Papua New Guinea vs Denmark" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",10:00 AM - ICC CWC Challenge League A: Papua New Guinea vs Denmark [Charlie] - (22/08/2025)
-https://streamed.pk/api/stream/charlie/papua-new-guinea-vs-denmark-1629454685
-#EXTINF:-1 tvg-name="Netherlands Volleyball Women vs Sweden Volleyball Women" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",10:00 AM - Netherlands Volleyball Women vs Sweden Volleyball Women [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/netherlands-w-vs-sweden-w
-#EXTINF:-1 tvg-name="Belgium Volleyball Women vs Cuba Volleyball Women" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",10:00 AM - Belgium Volleyball Women vs Cuba Volleyball Women [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/belgium-w-vs-cuba-w
-#EXTINF:-1 tvg-name="Kashiwa Reysol vs Urawa Red Diamonds" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRQhR+EFNghuekH22GTuEFakmCwJBT7DZmsCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",10:00 AM - Kashiwa Reysol vs Urawa Red Diamonds [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/kashiwa-reysol-vs-urawa-red-diamonds
-#EXTINF:-1 tvg-name="Kashiwa Reysol vs Urawa Red Diamonds" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRQhR+EFNghuekH22GTuEFakmCwJBT7DZmsCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",10:00 AM - Kashiwa Reysol vs Urawa Red Diamonds [Charlie] - (22/08/2025)
-https://streamed.pk/api/stream/charlie/kashiwa-reysol-vs-urawa-1324212
-#EXTINF:-1 tvg-name="Melbourne Storm vs Canterbury Bankstown Bulldogs" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPgn5gZOEiG4gpICIZCITfEChCWFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Rugby",10:00 AM - Melbourne Storm vs Canterbury Bankstown Bulldogs [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/melbourne-storm-vs-canterbury-bulldogs
-#EXTINF:-1 tvg-name="Melbourne Storm vs Canterbury Bankstown Bulldogs" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPgn5gZOEiG4gpICIZCITfEChCWFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Rugby",10:00 AM - Melbourne Storm vs Canterbury Bankstown Bulldogs [Echo] - (22/08/2025)
-https://streamed.pk/api/stream/echo/melbourne-storm-vs-canterbury-bulldogs-game-13-04
-#EXTINF:-1 tvg-name="Road to UFC Season 4 Episode 6" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoJIh4YaSCwg9vfSC1aDIU4ZAxLLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Fight",10:00 AM - Road to UFC Season 4 Episode 6 [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/road-to-ufc-s4-episode-5-semifinal
-#EXTINF:-1 tvg-name="Road to UFC Season 4 Episode 6" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoJIh4YaSCwg9vfSC1aDIU4ZAxLLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Fight",10:00 AM - Road to UFC Season 4 Episode 6 [Charlie] - (22/08/2025)
-https://streamed.pk/api/stream/charlie/road-to-ufc-s4-episode-5-and-6-or-semifinals-1629456867
-#EXTINF:-1 tvg-name="Port Adelaide Power vs Gold Coast Suns" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",10:10 AM - Port Adelaide Power vs Gold Coast Suns [Echo] - (22/08/2025)
-https://streamed.pk/api/stream/echo/port-adelaide-power-vs-gold-coast-suns-australian-football-3264
-#EXTINF:-1 tvg-name="MotoGP Hungary GP: Moto3 FP2" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",11:15 AM - MotoGP Hungary GP: Moto3 FP2 [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/motogp-hungary-gp-moto3-fp2
-#EXTINF:-1 tvg-name="The Betfred British Masters Second Round SKY" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",11:30 AM - The Betfred British Masters Second Round SKY [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/the-betfred-british-masters-second-round-sky
-#EXTINF:-1 tvg-name="TOUR Championship: Bradley & Matsuyama Featured Groups (Second Round)" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",12:00 PM - TOUR Championship: Bradley & Matsuyama Featured Groups (Second Round) [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/tour-championship-bradley-matsuyama-featured-groups-second-round
-#EXTINF:-1 tvg-name="TOUR Championship: Bradley & Matsuyama Featured Groups (Second Round)" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",12:00 PM - TOUR Championship: Bradley & Matsuyama Featured Groups (Second Round) [Charlie] - (22/08/2025)
-https://streamed.pk/api/stream/charlie/tour-championship-featured-group-second-round-1629456877
-#EXTINF:-1 tvg-name="CPKC Women's Open Second Round" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",12:00 PM - CPKC Women's Open Second Round [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/cpkc-women-s-open-second-round
-#EXTINF:-1 tvg-name="CPKC Women's Open Second Round" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",12:00 PM - CPKC Women's Open Second Round [Charlie] - (22/08/2025)
-https://streamed.pk/api/stream/charlie/cpkc-womens-open-second-round-1629456870
-#EXTINF:-1 tvg-name="Women's Speed Chess Championship 2025 - Final" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:00 PM - Women's Speed Chess Championship 2025 - Final [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/women-s-speed-chess-championship-2025-final
-#EXTINF:-1 tvg-name="Tunisia U21 vs Indonesia U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:00 PM - Tunisia U21 vs Indonesia U21 [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/tunisia-u21-vs-indonesia-u21
-#EXTINF:-1 tvg-name="Italy U21 vs Ukraine U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:00 PM - Italy U21 vs Ukraine U21 [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/italy-u21-vs-ukraine-u21
-#EXTINF:-1 tvg-name="Argentina U21 vs France U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:00 PM - Argentina U21 vs France U21 [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/argentina-u21-vs-france-u21
-#EXTINF:-1 tvg-name="Rafferty vs Chamberlain: Weigh-In" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",12:00 PM - Rafferty vs Chamberlain: Weigh-In [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/rafferty-vs-chamberlain-weigh-in
-#EXTINF:-1 tvg-name="Rayong vs Nakhon Ratchasima" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 PM - Rayong vs Nakhon Ratchasima [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/rayong-fc-vs-nakhon-ratchasima-fc
-#EXTINF:-1 tvg-name="Thể Công Viettel vs Công An Hồ Chí Minh City" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:15 PM - Thể Công Viettel vs Công An Hồ Chí Minh City [Charlie] - (22/08/2025)
-https://streamed.pk/api/stream/charlie/viettel-vs-ho-chi-minh-city-1429333
-#EXTINF:-1 tvg-name="USA Volleyball Women vs Slovenia Volleyball Women" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:30 PM - USA Volleyball Women vs Slovenia Volleyball Women [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/usa-w-vs-slovenia-w
-#EXTINF:-1 tvg-name="Brazil Volleyball Women vs Greece Volleyball Women" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:30 PM - Brazil Volleyball Women vs Greece Volleyball Women [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/brazil-w-vs-greece-w
-#EXTINF:-1 tvg-name="ONE Friday Fights 121 Tengnueng vs Bakhtin" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBDUBTEDBCJeILCBIhN0gyCOHzLJBSwi5jFGFUoe78o21jP+KzAYO7iYhBAA.webp" group-title="Fight",12:30 PM - ONE Friday Fights 121 Tengnueng vs Bakhtin [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/one-friday-fights-121
+#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggYITfh1b9SlAr3a1SlZdU6aWPjMlSw+EhCY9JfIc9GEIQA.webp" group-title="24/7 Live",NHL Network
+https://streamed.pk/api/stream/alpha/nhl-network
+#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggYITfh1b9SlAr3a1SlZdU6aWPjMlSw+EhCY9JfIc9GEIQA.webp" group-title="24/7 Live",NHL Network
+https://streamed.pk/api/stream/foxtrot/6580da5fe46bd243f3850a4d
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggYITXWUgUqncoWG1Kw-mN7N5GsCRYZkqWHwkITHpL5C3owgggA.webp" group-title="24/7 Live",NFL Network
+https://streamed.pk/api/stream/alpha/nfl-network
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggYITXWUgUqncoWG1Kw-mN7N5GsCRYZkqWHwkITHpL5C3owgggA.webp" group-title="24/7 Live",NFL Network
+https://streamed.pk/api/stream/foxtrot/6570a839bae85135f61b12cb
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQiFRGUgUWkOR2IYihSsQbtiOpssoaYOYUoxJUsPhIQmPSXyGvRhCCA.webp" group-title="24/7 Live",ESPN
+https://streamed.pk/api/stream/alpha/espn
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQiFRGUgUWkOR2IYihSsQbtiOpssoaYOYUoxJUsPhIQmPSXyGvRhCCA.webp" group-title="24/7 Live",ESPN
+https://streamed.pk/api/stream/foxtrot/678fd5e48d98ade1299c318b
+#EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",ESPN First Take
+https://streamed.pk/api/stream/alpha/espn-first-take
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggY6rSE37dIBUs2J8O7SpQh4NYEiwzJUsPhIQmPSXyGvRhCCA.webp" group-title="24/7 Live",NBA TV
+https://streamed.pk/api/stream/alpha/nba-tv
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgJZpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggY6rSE37dIBUs2J8O7SpQh4NYEiwzJUsPhIQmPSXyGvRhCCA.webp" group-title="24/7 Live",NBA TV
+https://streamed.pk/api/stream/foxtrot/6570a866bae85135f61b12d1
 #EXTINF:-1 tvg-name="Valkenswaard - GCL Round 1" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:45 PM - Valkenswaard - GCL Round 1 [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/valkenswaard-gcl-round-1
 #EXTINF:-1 tvg-name="Renewi Tour | Stage 3 - Men | Aalter – Geraardsbergen (179.9km)" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",01:15 PM - Renewi Tour | Stage 3 - Men | Aalter – Geraardsbergen (179.9km) [Echo] - (22/08/2025)
@@ -256,22 +274,32 @@ https://streamed.pk/api/stream/alpha/thailand-w-vs-egypt-w
 https://streamed.pk/api/stream/alpha/street-fighter-6-day-3
 #EXTINF:-1 tvg-name="Counter-Strike 2 | Day 3" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",01:55 PM - Counter-Strike 2 | Day 3 [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/counter-strike-2-day-3
+#EXTINF:-1 tvg-name="TOUR Championship: Featured Group 1" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",02:00 PM - TOUR Championship: Featured Group 1 [Bravo] - (22/08/2025)
+https://streamed.pk/api/stream/bravo/1755871200000-tour-championship-featured-group-1
+#EXTINF:-1 tvg-name="FC Salzburg vs EV Zug" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Hockey",02:00 PM - FC Salzburg vs EV Zug [Bravo] - (22/08/2025)
+https://streamed.pk/api/stream/bravo/1755871200000-fc-salzburg-ev-zug
+#EXTINF:-1 tvg-name="Selimbar vs Sepsi Sf. Gheorghe" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",02:00 PM - Selimbar vs Sepsi Sf. Gheorghe [Bravo] - (22/08/2025)
+https://streamed.pk/api/stream/bravo/1755871200000-selimbar-sepsi-sf-gheorghe
 #EXTINF:-1 tvg-name="Kenya vs Madagascar" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",02:00 PM - Kenya vs Madagascar [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/kenya-vs-madagascar
+#EXTINF:-1 tvg-name="Kenya vs Madagascar" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",02:00 PM - Kenya vs Madagascar [Bravo] - (22/08/2025)
+https://streamed.pk/api/stream/bravo/1755871200000-kenya-madagascar
 #EXTINF:-1 tvg-name="Kenya vs Madagascar" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",02:00 PM - Kenya vs Madagascar [Charlie] - (22/08/2025)
 https://streamed.pk/api/stream/charlie/kenya-vs-madagascar-1629458057
 #EXTINF:-1 tvg-name="Kenya vs Madagascar" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",02:00 PM - Kenya vs Madagascar [Echo] - (22/08/2025)
 https://streamed.pk/api/stream/echo/kenya-vs-madagascar-football-1438891
 #EXTINF:-1 tvg-name="Bani Yas vs Ittihad Kalba" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",02:00 PM - Bani Yas vs Ittihad Kalba [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/bani-yas-vs-ittihad-kalba
+#EXTINF:-1 tvg-name="Bani Yas vs Ittihad Kalba" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",02:00 PM - Bani Yas vs Ittihad Kalba [Bravo] - (22/08/2025)
+https://streamed.pk/api/stream/bravo/1755871200000-bani-yas-ittihad-kalba
 #EXTINF:-1 tvg-name="Birmingham Phoenix Women vs Welsh Fire Women" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmLBgQrbcCQheILCBIgIIRCGPmQKQyyQUsIuYxRhVKHp-KNqct74rMBaYozhQA.webp" group-title="Cricket",02:00 PM - Birmingham Phoenix Women vs Welsh Fire Women [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/birmingham-phoenix-w-vs-welsh-fire-w
 #EXTINF:-1 tvg-name="Birmingham Phoenix Women vs Welsh Fire Women" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmLBgQrbcCQheILCBIgIIRCGPmQKQyyQUsIuYxRhVKHp-KNqct74rMBaYozhQA.webp" group-title="Cricket",02:00 PM - Birmingham Phoenix Women vs Welsh Fire Women [Charlie] - (22/08/2025)
 https://streamed.pk/api/stream/charlie/birmingham-phoenix-w-vs-welsh-fire-w-1629454686
+#EXTINF:-1 tvg-name="Birmingham Phoenix Women vs Welsh Fire Women" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmLBgQrbcCQheILCBIgIIRCGPmQKQyyQUsIuYxRhVKHp-KNqct74rMBaYozhQA.webp" group-title="Cricket",02:00 PM - Birmingham Phoenix Women vs Welsh Fire Women [Echo] - (22/08/2025)
+https://streamed.pk/api/stream/echo/birmingham-phoenix-vs-welsh-fire-cricket-hundred-1
 #EXTINF:-1 tvg-name="Currie Cup: Pumas vs Boland Kavaliers" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="American Football",02:50 PM - Currie Cup: Pumas vs Boland Kavaliers [Charlie] - (22/08/2025)
 https://streamed.pk/api/stream/charlie/pumas-vs-boland-kavaliers-1629456873
-#EXTINF:-1 tvg-name="2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",03:00 PM - 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 [Echo] - (22/08/2025)
-https://streamed.pk/api/stream/echo/2025-us-open-tennis-mens-womens-qualifying-first-round-tennis-02
 #EXTINF:-1 tvg-name="Court 6: Destanee Aiava vs Ella Seidel" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Court 6: Destanee Aiava vs Ella Seidel [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/court-6-destanee-aiava-vs-ella-seidel
 #EXTINF:-1 tvg-name="Court 8: Zhang Shuai vs Sijia Wei" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Court 8: Zhang Shuai vs Sijia Wei [Alpha] - (22/08/2025)
@@ -296,6 +324,8 @@ https://streamed.pk/api/stream/alpha/court-10-federico-agustin-gomez-vs-hugo-gre
 https://streamed.pk/api/stream/alpha/court-13-yuta-shimizu-vs-martin-dammjr
 #EXTINF:-1 tvg-name="Court 9: Arthur Cazaux vs Jan-Lennard Struff" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Court 9: Arthur Cazaux vs Jan-Lennard Struff [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/court-9-arthur-cazaux-vs-jan-lennard-struff
+#EXTINF:-1 tvg-name="MotoGP Hungary GP: MotoE Qualifying 1" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",03:00 PM - MotoGP Hungary GP: MotoE Qualifying 1 [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/motogp-hungary-gp-motoe-qualifying-1
 #EXTINF:-1 tvg-name="Orenburg vs Akhmat Grozny" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdilYhqIXiCwgIu-SBKGQFvYgtGQLJBSwi5jFGFWaO78o2pzN+KzAYO7iYhBAA.webp" group-title="Football",03:00 PM - Orenburg vs Akhmat Grozny [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/gazovik-orenburg-vs-akhmat-grozny
 #EXTINF:-1 tvg-name="VPS vs KTP" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRDDkheOKdpB8QiELlMkDIcygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football",03:00 PM - VPS vs KTP [Alpha] - (22/08/2025)
@@ -306,8 +336,12 @@ https://streamed.pk/api/stream/alpha/pumas-vs-boland-cavaliers
 https://streamed.pk/api/stream/charlie/tour-championship-main-feed-second-round-1629456874
 #EXTINF:-1 tvg-name="TOUR Championship Round 2" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLhApm2OiG4gpWkBBBmjRxGZgFgSCn2Gz6KMCu1s35ellnamtGBuYqIQQA.webp" group-title="Golf",03:15 PM - TOUR Championship Round 2 [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/tour-championship-main-feed-second-round
+#EXTINF:-1 tvg-name="TOUR Championship Round 2" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLhApm2OiG4gpWkBBBmjRxGZgFgSCn2Gz6KMCu1s35ellnamtGBuYqIQQA.webp" group-title="Golf",03:15 PM - TOUR Championship Round 2 [Bravo] - (22/08/2025)
+https://streamed.pk/api/stream/bravo/1755871200000-tour-championship
 #EXTINF:-1 tvg-name="UCI Mountain Bike World Series: Cross-country Short Track: Haute-Savoie" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",03:30 PM - UCI Mountain Bike World Series: Cross-country Short Track: Haute-Savoie [Charlie] - (22/08/2025)
 https://streamed.pk/api/stream/charlie/cross-country-short-track-haute-savoie-1629456876
+#EXTINF:-1 tvg-name="US Open Pool 2025 🎱" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",04:00 PM - US Open Pool 2025 🎱 [Echo] - (22/08/2025)
+https://streamed.pk/api/stream/echo/us-open-pool-2025-pool-2025
 #EXTINF:-1 tvg-name="LIV Golf Team Championship - Day 1" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",04:00 PM - LIV Golf Team Championship - Day 1 [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/liv-golf-team-championship-day-1
 #EXTINF:-1 tvg-name="LIV Golf Team Championship - Day 1" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",04:00 PM - LIV Golf Team Championship - Day 1 [Charlie] - (22/08/2025)
@@ -324,8 +358,6 @@ https://streamed.pk/api/stream/echo/uta-arad-vs-unirea-slobozia-football-1385804
 https://streamed.pk/api/stream/alpha/radomiak-radom-vs-termalica-b-b
 #EXTINF:-1 tvg-name="Radomiak Radom vs Bruk-Bet Termalica Nieciecza" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMHLC9aWMCRDcQfEPpghEEcyEtmSBYEgp9hs+ij1sUXPeXpZZXky0YB70ohBAA.webp" group-title="Football",04:00 PM - Radomiak Radom vs Bruk-Bet Termalica Nieciecza [Echo] - (22/08/2025)
 https://streamed.pk/api/stream/echo/radomiak-radom-vs-nieciecza-football-1380434
-#EXTINF:-1 tvg-name="Greece Basketball vs Italy Basketball" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAZW84GBAhg0kLxBYQJc5cQwQRm9JZIKWEXMYowqlD0-lG1OW98bTBPcTEIIA.webp" group-title="Basketball",04:15 PM - Greece Basketball vs Italy Basketball [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/greece-vs-italy
 #EXTINF:-1 tvg-name="2. Bundesliga: Preußen Munster vs 1. FC Nurnberg" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",04:30 PM - 2. Bundesliga: Preußen Munster vs 1. FC Nurnberg [Charlie] - (22/08/2025)
 https://streamed.pk/api/stream/charlie/preussen-munster-vs-1-fc-nurnberg-1388638
 #EXTINF:-1 tvg-name="2 Bundesliga Konferenz" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",04:30 PM - 2 Bundesliga Konferenz [Alpha] - (22/08/2025)
@@ -386,6 +418,8 @@ https://streamed.pk/api/stream/alpha/court-14-francesco-passaro-vs-henrique-roch
 https://streamed.pk/api/stream/alpha/javor-vs-napredak
 #EXTINF:-1 tvg-name="KFUM-Kameratene Oslo vs Hamarkameratene" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMAAMIFAxC0+IbiEOIQ+oyfMgINgsCQU+w2fRRgVuth-L0ss3SZaMA8xUQggA.webp" group-title="Football",05:00 PM - KFUM-Kameratene Oslo vs Hamarkameratene [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/kfum-oslo-vs-hamarkameratene
+#EXTINF:-1 tvg-name="Greece Basketball vs Italy Basketball" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAZW84GBAhg0kLxBYQJc5cQwQRm9JZIKWEXMYowqlD0-lG1OW98bTBPcTEIIA.webp" group-title="Basketball",05:00 PM - Greece Basketball vs Italy Basketball [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/greece-vs-italy
 #EXTINF:-1 tvg-name="Sharks XV vs Western Province" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrJACQUfvhC8QWECRCJpIGGeun4LJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Rugby",05:10 PM - Sharks XV vs Western Province [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/sharks-vs-western-province
 #EXTINF:-1 tvg-name="Sharks XV vs Western Province" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrJACQUfvhC8QWECRCJpIGGeun4LJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Rugby",05:10 PM - Sharks XV vs Western Province [Charlie] - (22/08/2025)
@@ -528,6 +562,8 @@ https://streamed.pk/api/stream/charlie/venezuela-vs-canada-1629457735
 https://streamed.pk/api/stream/alpha/panama-vs-puerto-rico
 #EXTINF:-1 tvg-name="Panama Basketball vs Puerto Rico Basketball" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKnCRgxvMCEoheILCBKHjIauekgbIFlpgCRcxim0cUPbeUbU5XviswGAejGIQQA.webp" group-title="Basketball",08:00 PM - Panama Basketball vs Puerto Rico Basketball [Charlie] - (22/08/2025)
 https://streamed.pk/api/stream/charlie/panama-vs-puerto-rico-1629457733
+#EXTINF:-1 tvg-name="Dominican Republic Basketball vs Colombia Basketball" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlhC8Q8MGLLUtITSSObD26SCskWSClhFzGKPRxQ895RtTkf8rMBgboxiEEA.webp" group-title="Basketball",08:00 PM - Dominican Republic Basketball vs Colombia Basketball [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/dominican-republic-vs-colombia
 #EXTINF:-1 tvg-name="Dominican Republic Basketball vs Colombia Basketball" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlhC8Q8MGLLUtITSSObD26SCskWSClhFzGKPRxQ895RtTkf8rMBgboxiEEA.webp" group-title="Basketball",08:00 PM - Dominican Republic Basketball vs Colombia Basketball [Charlie] - (22/08/2025)
 https://streamed.pk/api/stream/charlie/dominican-republic-vs-colombia-1629457769
 #EXTINF:-1 tvg-name="Nicaragua Basketball vs Argentina Basketball" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBwoBYJETAhemkCUPHqZ6SCtYWemAJFzGKMKu0c35RtTnb8rMBgbuJiEEA.webp" group-title="Basketball",08:00 PM - Nicaragua Basketball vs Argentina Basketball [Alpha] - (22/08/2025)
@@ -576,16 +612,16 @@ https://streamed.pk/api/stream/alpha/philadelphia-phillies-vs-washington-nationa
 https://streamed.pk/api/stream/charlie/washington-nationals-vs-philadelphia-phillies-1629457738
 #EXTINF:-1 tvg-name="Philadelphia Phillies vs Washington Nationals" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvGx8Q1JsAAMIXiCwgSICCBghpIO7evN8wJBSwi5jFGFUoeP8kZdMT9nejAfcTEIIA.webp" group-title="Baseball",10:45 PM - Philadelphia Phillies vs Washington Nationals [Delta] - (22/08/2025)
 https://streamed.pk/api/stream/delta/live_mlb_phillies-nationals-live-streaming-961936101
-#EXTINF:-1 tvg-name="WTA 500: Monterrey Open - Day 5" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:00 PM - WTA 500: Monterrey Open - Day 5 [Charlie] - (22/08/2025)
-https://streamed.pk/api/stream/charlie/monterrey-open-day-5-1629457742
 #EXTINF:-1 tvg-name="Women's College Volleyball: Pittsburgh vs Nebraska" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",11:00 PM - Women's College Volleyball: Pittsburgh vs Nebraska [Charlie] - (22/08/2025)
 https://streamed.pk/api/stream/charlie/pittsburgh-vs-nebraska-1629457743
-#EXTINF:-1 tvg-name="Monterrey Estadio: Alycia Parks vs Diana Shnaider" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:00 PM - Monterrey Estadio: Alycia Parks vs Diana Shnaider [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/monterrey-estadio-alycia-parks-vs-diana-shnaider
+#EXTINF:-1 tvg-name="WTA 500: Monterrey Open - Day 5" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:00 PM - WTA 500: Monterrey Open - Day 5 [Charlie] - (22/08/2025)
+https://streamed.pk/api/stream/charlie/monterrey-open-day-5-1629457742
 #EXTINF:-1 tvg-name="Antigua & Barbuda Falcons vs Guyana Amazon Warriors" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",11:00 PM - Antigua & Barbuda Falcons vs Guyana Amazon Warriors [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/antigua-barbuda-falcons-vs-guyana-amazon-warriors
 #EXTINF:-1 tvg-name="Antigua & Barbuda Falcons vs Guyana Amazon Warriors" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",11:00 PM - Antigua & Barbuda Falcons vs Guyana Amazon Warriors [Charlie] - (22/08/2025)
 https://streamed.pk/api/stream/charlie/falcons-vs-warriors-1629454688
+#EXTINF:-1 tvg-name="Monterrey Estadio: Alycia Parks vs Diana Shnaider" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:00 PM - Monterrey Estadio: Alycia Parks vs Diana Shnaider [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/monterrey-estadio-alycia-parks-vs-diana-shnaider
 #EXTINF:-1 tvg-name="2025 Little League Baseball World Series" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Baseball",11:00 PM - 2025 Little League Baseball World Series [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/2025-little-league-baseball-world-series
 #EXTINF:-1 tvg-name="T-Mobile Little League Home Run Derby" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Baseball",11:00 PM - T-Mobile Little League Home Run Derby [Alpha] - (22/08/2025)
@@ -642,10 +678,10 @@ https://streamed.pk/api/stream/delta/live_mlb_braves-mets-live-streaming-9600409
 https://streamed.pk/api/stream/golf/1-new-york-mets-at-atlanta-braves
 #EXTINF:-1 tvg-name="NASCAR Xfinity Series 2025 - Daytona Beach" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",11:30 PM - NASCAR Xfinity Series 2025 - Daytona Beach [Delta] - (22/08/2025)
 https://streamed.pk/api/stream/delta/live-event_nascar-xfinity-series-2025-daytona-beach-1-live-stream
-#EXTINF:-1 tvg-name="Winston Stadium: Ann Li vs Wang Xinyu" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:30 PM - Winston Stadium: Ann Li vs Wang Xinyu [Alpha] - (22/08/2025)
-https://streamed.pk/api/stream/alpha/winston-stadium-ann-li-vs-wang-xinyu
 #EXTINF:-1 tvg-name="Taranaki Women vs Tasman Women" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Rugby",11:30 PM - Taranaki Women vs Tasman Women [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/taranaki-women-v-tasman-women
+#EXTINF:-1 tvg-name="Winston Stadium: Ann Li vs Wang Xinyu" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:30 PM - Winston Stadium: Ann Li vs Wang Xinyu [Alpha] - (22/08/2025)
+https://streamed.pk/api/stream/alpha/winston-stadium-ann-li-vs-wang-xinyu
 #EXTINF:-1 tvg-name="NASCAR Xfinity Series Wawa 250 Powered By Coca-Cola, Daytona International" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",11:30 PM - NASCAR Xfinity Series Wawa 250 Powered By Coca-Cola, Daytona International [Alpha] - (22/08/2025)
 https://streamed.pk/api/stream/alpha/nascar-xfinity-series-wawa-250-powered-by-coca-cola-daytona-international
 #EXTINF:-1 tvg-name="Indiana Fever vs Minnesota Lynx" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgpICCAEkQMENz06QB7SlM5dIAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Basketball",11:30 PM - Indiana Fever vs Minnesota Lynx [Alpha] - (22/08/2025)
@@ -667,7 +703,7 @@ https://streamed.pk/api/stream/charlie/philadelphia-eagles-vs-new-york-jets-1629
 #EXTINF:-1 tvg-name="New York Jets vs Philadelphia Eagles" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKkjB8QtEHRDcQ2iCFNSQJmCBQWdBYJpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="American Football",11:30 PM - New York Jets vs Philadelphia Eagles [Delta] - (22/08/2025)
 https://streamed.pk/api/stream/delta/live_nfl-preseason_jets-eagles-live-streaming-943481574
 #EXTINF:-1 tvg-name="New York Jets vs Philadelphia Eagles" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKkjB8QtEHRDcQ2iCFNSQJmCBQWdBYJpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="American Football",11:30 PM - New York Jets vs Philadelphia Eagles [Foxtrot] - (22/08/2025)
-https://streamed.pk/api/stream/foxtrot/68a745cb3da23fb16e441096
+https://streamed.pk/api/stream/foxtrot/68a831917c55cfa436da9bb0
 #EXTINF:-1 tvg-name="New York Jets vs Philadelphia Eagles" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKkjB8QtEHRDcQ2iCFNSQJmCBQWdBYJpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="American Football",11:30 PM - New York Jets vs Philadelphia Eagles [Golf] - (22/08/2025)
 https://streamed.pk/api/stream/golf/1-eagles-jets
 #EXTINF:-1 tvg-name="Tampa Bay Rays vs St. Louis Cardinals" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiFZCk0LCF4g9JEBBAwQ0kFePGULHTAEi5jFGFUoe78o2pzP+Fpg7uJiEEA.webp" group-title="Baseball",11:35 PM - Tampa Bay Rays vs St. Louis Cardinals [Admin] - (22/08/2025)
@@ -694,12 +730,12 @@ https://streamed.pk/api/stream/golf/1-minnesota-twins-at-chicago-white-sox
 https://streamed.pk/api/stream/golf/1-vikings-titans-in-german-
 #EXTINF:-1 tvg-name="The Ally Challenge First Round" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",12:00 AM - The Ally Challenge First Round [Alpha] - (23/08/2025)
 https://streamed.pk/api/stream/alpha/the-ally-challenge-first-round
-#EXTINF:-1 tvg-name="Herbie Awards: Preseason Special" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="American Football",12:00 AM - Herbie Awards: Preseason Special [Alpha] - (23/08/2025)
-https://streamed.pk/api/stream/alpha/herbie-awards-preseason-special
 #EXTINF:-1 tvg-name="LUX 054: Prelims" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",12:00 AM - LUX 054: Prelims [Alpha] - (23/08/2025)
 https://streamed.pk/api/stream/alpha/lux-054-prelims
 #EXTINF:-1 tvg-name="LUX 054: Prelims" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",12:00 AM - LUX 054: Prelims [Charlie] - (23/08/2025)
 https://streamed.pk/api/stream/charlie/lux-054-1629457768
+#EXTINF:-1 tvg-name="Herbie Awards: Preseason Special" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",12:00 AM - Herbie Awards: Preseason Special [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/herbie-awards-preseason-special
 #EXTINF:-1 tvg-name="WWE: Friday Night Smackdown" tvg-logo="https://streamed.pkhttps://ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Fight",12:00 AM - WWE: Friday Night Smackdown [Admin] - (23/08/2025)
 https://streamed.pk/api/stream/admin/ppv-wwe-friday-night-smackdown
 #EXTINF:-1 tvg-name="WWE: Friday Night Smackdown" tvg-logo="https://streamed.pkhttps://ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Fight",12:00 AM - WWE: Friday Night Smackdown [Alpha] - (23/08/2025)
@@ -719,7 +755,7 @@ https://streamed.pk/api/stream/charlie/minnesota-vikings-vs-tennessee-titans-162
 #EXTINF:-1 tvg-name="Tennessee Titans vs Minnesota Vikings" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCHorKckNxB9NIY1KMwQKI1ILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="American Football",12:00 AM - Tennessee Titans vs Minnesota Vikings [Delta] - (23/08/2025)
 https://streamed.pk/api/stream/delta/live_nfl-preseason_titans-vikings-live-streaming-943483572
 #EXTINF:-1 tvg-name="Tennessee Titans vs Minnesota Vikings" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCHorKckNxB9NIY1KMwQKI1ILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="American Football",12:00 AM - Tennessee Titans vs Minnesota Vikings [Foxtrot] - (23/08/2025)
-https://streamed.pk/api/stream/foxtrot/68a745cb3da23fb16e44109c
+https://streamed.pk/api/stream/foxtrot/68a831917c55cfa436da9bb6
 #EXTINF:-1 tvg-name="Tennessee Titans vs Minnesota Vikings" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCHorKckNxB9NIY1KMwQKI1ILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="American Football",12:00 AM - Tennessee Titans vs Minnesota Vikings [Golf] - (23/08/2025)
 https://streamed.pk/api/stream/golf/1-vikings-titans
 #EXTINF:-1 tvg-name="Dallas Cowboys vs Atlanta Falcons" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMnxCiZKdiG4hNEECakhjMECnNaCwJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp" group-title="American Football",12:00 AM - Dallas Cowboys vs Atlanta Falcons [Alpha] - (23/08/2025)
@@ -729,7 +765,7 @@ https://streamed.pk/api/stream/charlie/atlanta-falcons-vs-dallas-cowboys-1629457
 #EXTINF:-1 tvg-name="Dallas Cowboys vs Atlanta Falcons" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMnxCiZKdiG4hNEECakhjMECnNaCwJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp" group-title="American Football",12:00 AM - Dallas Cowboys vs Atlanta Falcons [Delta] - (23/08/2025)
 https://streamed.pk/api/stream/delta/live_nfl-preseason_cowboys-falcons-live-streaming-943482573
 #EXTINF:-1 tvg-name="Dallas Cowboys vs Atlanta Falcons" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMnxCiZKdiG4hNEECakhjMECnNaCwJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp" group-title="American Football",12:00 AM - Dallas Cowboys vs Atlanta Falcons [Foxtrot] - (23/08/2025)
-https://streamed.pk/api/stream/foxtrot/68a745cb3da23fb16e441093
+https://streamed.pk/api/stream/foxtrot/68a831917c55cfa436da9bad
 #EXTINF:-1 tvg-name="Dallas Cowboys vs Atlanta Falcons" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMnxCiZKdiG4hNEECakhjMECnNaCwJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp" group-title="American Football",12:00 AM - Dallas Cowboys vs Atlanta Falcons [Golf] - (23/08/2025)
 https://streamed.pk/api/stream/golf/1-falcons-cowboys
 #EXTINF:-1 tvg-name="Texas Rangers vs Cleveland Guardians" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkhD1ZYgAzYQvEFhAkQEEDBDSQts-ZZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Baseball",12:05 AM - Texas Rangers vs Cleveland Guardians [Admin] - (23/08/2025)
@@ -759,7 +795,7 @@ https://streamed.pk/api/stream/charlie/chicago-bears-vs-kansas-city-chiefs-16294
 #EXTINF:-1 tvg-name="Kansas City Chiefs vs Chicago Bears" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGT5hR4JDxDcQfEBBBmpJkDBApLNpkgp9hs+im1sUXbeXpZZXky0YB70ohBAA.webp" group-title="American Football",12:20 AM - Kansas City Chiefs vs Chicago Bears [Delta] - (23/08/2025)
 https://streamed.pk/api/stream/delta/live_nfl-preseason_chiefs-bears-live-streaming-943484571
 #EXTINF:-1 tvg-name="Kansas City Chiefs vs Chicago Bears" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGT5hR4JDxDcQfEBBBmpJkDBApLNpkgp9hs+im1sUXbeXpZZXky0YB70ohBAA.webp" group-title="American Football",12:20 AM - Kansas City Chiefs vs Chicago Bears [Foxtrot] - (23/08/2025)
-https://streamed.pk/api/stream/foxtrot/68a745cb3da23fb16e441095
+https://streamed.pk/api/stream/foxtrot/68a831917c55cfa436da9baf
 #EXTINF:-1 tvg-name="Kansas City Chiefs vs Chicago Bears" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGT5hR4JDxDcQfEBBBmpJkDBApLNpkgp9hs+im1sUXbeXpZZXky0YB70ohBAA.webp" group-title="American Football",12:20 AM - Kansas City Chiefs vs Chicago Bears [Golf] - (23/08/2025)
 https://streamed.pk/api/stream/golf/1-bears-chiefs
 #EXTINF:-1 tvg-name="Deportes Limache vs O'Higgins" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:30 AM - Deportes Limache vs O'Higgins [Alpha] - (23/08/2025)
@@ -770,10 +806,6 @@ https://streamed.pk/api/stream/alpha/ottawa-redblacks-vs-edmonton-elks
 https://streamed.pk/api/stream/alpha/criciuma-vs-novorizontino
 #EXTINF:-1 tvg-name="Women's College Volleyball: Florida vs Stanford" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",01:00 AM - Women's College Volleyball: Florida vs Stanford [Charlie] - (23/08/2025)
 https://streamed.pk/api/stream/charlie/florida-vs-stanford-1629457760
-#EXTINF:-1 tvg-name="LFA 215" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",01:00 AM - LFA 215 [Alpha] - (23/08/2025)
-https://streamed.pk/api/stream/alpha/lfa-215
-#EXTINF:-1 tvg-name="LFA 215" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",01:00 AM - LFA 215 [Charlie] - (23/08/2025)
-https://streamed.pk/api/stream/charlie/lfa-215-1629457759
 #EXTINF:-1 tvg-name="Fury FC 108" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",01:00 AM - Fury FC 108 [Alpha] - (23/08/2025)
 https://streamed.pk/api/stream/alpha/fury-fc-108
 #EXTINF:-1 tvg-name="Fury FC 108" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",01:00 AM - Fury FC 108 [Charlie] - (23/08/2025)
@@ -798,8 +830,12 @@ https://streamed.pk/api/stream/charlie/fc-juarez-vs-santos-laguna-1379525
 https://streamed.pk/api/stream/alpha/canada-vs-usa
 #EXTINF:-1 tvg-name="Canada Rugby vs USA Rugby" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Rugby",01:00 AM - Canada Rugby vs USA Rugby [Charlie] - (23/08/2025)
 https://streamed.pk/api/stream/charlie/canada-vs-usa-1629457756
+#EXTINF:-1 tvg-name="Chicago Kingsmen vs Hobart Hurricanes" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",01:30 AM - Chicago Kingsmen vs Hobart Hurricanes [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/chicago-kingsmen-vs-hobart-hurricanes
 #EXTINF:-1 tvg-name="Los Angeles Angels vs Chicago Cubs" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJCbpYMdWCbeILCBIgIIGFpA2bFxfmBIKWEXMYpdHFD13lG+mI+jvRgXoxiEEA.webp" group-title="Baseball",01:38 AM - Los Angeles Angels vs Chicago Cubs [Admin] - (23/08/2025)
 https://streamed.pk/api/stream/admin/ppv-chicago-cubs-vs-los-angeles-angels
+#EXTINF:-1 tvg-name="Los Angeles Angels vs Chicago Cubs" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJCbpYMdWCbeILCBIgIIGFpA2bFxfmBIKWEXMYpdHFD13lG+mI+jvRgXoxiEEA.webp" group-title="Baseball",01:38 AM - Los Angeles Angels vs Chicago Cubs [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/los-angeles-angels-vs-chicago-cubs
 #EXTINF:-1 tvg-name="Los Angeles Angels vs Chicago Cubs" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJCbpYMdWCbeILCBIgIIGFpA2bFxfmBIKWEXMYpdHFD13lG+mI+jvRgXoxiEEA.webp" group-title="Baseball",01:38 AM - Los Angeles Angels vs Chicago Cubs [Charlie] - (23/08/2025)
 https://streamed.pk/api/stream/charlie/chicago-cubs-vs-los-angeles-angels-1629457761
 #EXTINF:-1 tvg-name="Los Angeles Angels vs Chicago Cubs" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJCbpYMdWCbeILCBIgIIGFpA2bFxfmBIKWEXMYpdHFD13lG+mI+jvRgXoxiEEA.webp" group-title="Baseball",01:38 AM - Los Angeles Angels vs Chicago Cubs [Delta] - (23/08/2025)
@@ -808,6 +844,8 @@ https://streamed.pk/api/stream/delta/live_mlb_angels-cubs-live-streaming-9619390
 https://streamed.pk/api/stream/golf/1-chicago-cubs-at-los-angeles-angels
 #EXTINF:-1 tvg-name="Arizona Diamondbacks vs Cincinnati Reds" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqrBJK4tCF4gsIEiAggYIaSGvWzMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",01:40 AM - Arizona Diamondbacks vs Cincinnati Reds [Admin] - (23/08/2025)
 https://streamed.pk/api/stream/admin/ppv-cincinnati-reds-vs-arizona-diamondbacks
+#EXTINF:-1 tvg-name="Arizona Diamondbacks vs Cincinnati Reds" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqrBJK4tCF4gsIEiAggYIaSGvWzMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",01:40 AM - Arizona Diamondbacks vs Cincinnati Reds [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/arizona-diamondbacks-vs-cincinnati-reds
 #EXTINF:-1 tvg-name="Arizona Diamondbacks vs Cincinnati Reds" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqrBJK4tCF4gsIEiAggYIaSGvWzMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",01:40 AM - Arizona Diamondbacks vs Cincinnati Reds [Charlie] - (23/08/2025)
 https://streamed.pk/api/stream/charlie/cincinnati-reds-vs-arizona-diamondbacks-1629457763
 #EXTINF:-1 tvg-name="Arizona Diamondbacks vs Cincinnati Reds" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqrBJK4tCF4gsIEiAggYIaSGvWzMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",01:40 AM - Arizona Diamondbacks vs Cincinnati Reds [Delta] - (23/08/2025)
@@ -816,27 +854,181 @@ https://streamed.pk/api/stream/delta/live_mlb_diamondbacks-reds-live-streaming-9
 https://streamed.pk/api/stream/golf/1-cincinnati-reds-at-arizona-diamondbacks
 #EXTINF:-1 tvg-name="San Diego Padres vs Los Angeles Dodgers" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmPwgYPLCGkheIPSRARt+kFdOnJ+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Baseball",01:40 AM - San Diego Padres vs Los Angeles Dodgers [Admin] - (23/08/2025)
 https://streamed.pk/api/stream/admin/ppv-los-angeles-dodgers-vs-san-diego-padres
+#EXTINF:-1 tvg-name="San Diego Padres vs Los Angeles Dodgers" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmPwgYPLCGkheIPSRARt+kFdOnJ+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Baseball",01:40 AM - San Diego Padres vs Los Angeles Dodgers [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/san-diego-padres-vs-los-angeles-dodgers
 #EXTINF:-1 tvg-name="San Diego Padres vs Los Angeles Dodgers" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmPwgYPLCGkheIPSRARt+kFdOnJ+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Baseball",01:40 AM - San Diego Padres vs Los Angeles Dodgers [Charlie] - (23/08/2025)
 https://streamed.pk/api/stream/charlie/los-angeles-dodgers-vs-san-diego-padres-1629457762
 #EXTINF:-1 tvg-name="San Diego Padres vs Los Angeles Dodgers" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmPwgYPLCGkheIPSRARt+kFdOnJ+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Baseball",01:40 AM - San Diego Padres vs Los Angeles Dodgers [Delta] - (23/08/2025)
 https://streamed.pk/api/stream/delta/live_mlb_padres-dodgers-live-streaming-960045993
 #EXTINF:-1 tvg-name="San Diego Padres vs Los Angeles Dodgers" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmPwgYPLCGkheIPSRARt+kFdOnJ+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Baseball",01:40 AM - San Diego Padres vs Los Angeles Dodgers [Golf] - (23/08/2025)
 https://streamed.pk/api/stream/golf/1-los-angeles-dodgers-at-san-diego-padres
+#EXTINF:-1 tvg-name="U. de G. vs Tapatio" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",02:00 AM - U. de G. vs Tapatio [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/u-de-g-vs-tapatio
+#EXTINF:-1 tvg-name="LFA 215" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",02:00 AM - LFA 215 [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/lfa-215
+#EXTINF:-1 tvg-name="LFA 215" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",02:00 AM - LFA 215 [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/lfa-215-1629457759
+#EXTINF:-1 tvg-name="NXT Level Up" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",02:00 AM - NXT Level Up [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/nxt-level-up
+#EXTINF:-1 tvg-name="Vancouver FC vs Forge FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEOzDgBABhBSQ3EHxAQQJEDHO4QiK1ILAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Football",02:00 AM - Vancouver FC vs Forge FC [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/vancouver-fc-vs-forge
+#EXTINF:-1 tvg-name="Tonga Rugby vs Samoa Rugby" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Rugby",02:00 AM - Tonga Rugby vs Samoa Rugby [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/tonga-vs-samoa
 #EXTINF:-1 tvg-name="Tonga Rugby vs Samoa Rugby" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Rugby",02:00 AM - Tonga Rugby vs Samoa Rugby [Charlie] - (23/08/2025)
 https://streamed.pk/api/stream/charlie/tonga-vs-samoa-1629457764
+#EXTINF:-1 tvg-name="Phoenix Mercury vs Golden State Valkyries" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBC0ADG3KbuIPhpAkQUkCiO5TICUyQU+w2fRRgVKLh-0NZXplowDzFRCCA.webp" group-title="Basketball",02:00 AM - Phoenix Mercury vs Golden State Valkyries [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/phoenix-mercury-w-vs-golden-state-valkyries-w
 #EXTINF:-1 tvg-name="Phoenix Mercury vs Golden State Valkyries" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBC0ADG3KbuIPhpAkQUkCiO5TICUyQU+w2fRRgVKLh-0NZXplowDzFRCCA.webp" group-title="Basketball",02:00 AM - Phoenix Mercury vs Golden State Valkyries [Charlie] - (23/08/2025)
 https://streamed.pk/api/stream/charlie/golden-state-valkyries-vs-phoenix-mercury-1629457766
 #EXTINF:-1 tvg-name="Phoenix Mercury vs Golden State Valkyries" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBC0ADG3KbuIPhpAkQUkCiO5TICUyQU+w2fRRgVKLh-0NZXplowDzFRCCA.webp" group-title="Basketball",02:00 AM - Phoenix Mercury vs Golden State Valkyries [Delta] - (23/08/2025)
 https://streamed.pk/api/stream/delta/live_wnba_mercury-valkyries-live-streaming-960073965
+#EXTINF:-1 tvg-name="North Harbour Hibiscus vs Wellington Pride" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Rugby",02:05 AM - North Harbour Hibiscus vs Wellington Pride [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/north-harbour-hibiscus-v-wellington-pride
+#EXTINF:-1 tvg-name="Taranaki vs Waikato" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOCGBSwKYEkghuIPiAjHcIRDikgbIAnop9hs+ijArdbD+XpZZuky0YB5iohBAA.webp" group-title="Rugby",02:05 AM - Taranaki vs Waikato [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/taranaki-vs-waikato
 #EXTINF:-1 tvg-name="Taranaki vs Waikato" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOCGBSwKYEkghuIPiAjHcIRDikgbIAnop9hs+ijArdbD+XpZZuky0YB5iohBAA.webp" group-title="Rugby",02:05 AM - Taranaki vs Waikato [Charlie] - (23/08/2025)
 https://streamed.pk/api/stream/charlie/taranaki-vs-waikato-1629457767
 #EXTINF:-1 tvg-name="Seattle Mariners vs Athletics" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvyQ1xIPiF4gsIEiAggYIaSBSnbMFlpgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",02:10 AM - Seattle Mariners vs Athletics [Admin] - (23/08/2025)
 https://streamed.pk/api/stream/admin/ppv-athletics-vs-seattle-mariners
+#EXTINF:-1 tvg-name="Seattle Mariners vs Athletics" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvyQ1xIPiF4gsIEiAggYIaSBSnbMFlpgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",02:10 AM - Seattle Mariners vs Athletics [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/seattle-mariners-vs-athletics
 #EXTINF:-1 tvg-name="Seattle Mariners vs Athletics" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvyQ1xIPiF4gsIEiAggYIaSBSnbMFlpgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",02:10 AM - Seattle Mariners vs Athletics [Charlie] - (23/08/2025)
 https://streamed.pk/api/stream/charlie/athletics-vs-seattle-mariners-1629457765
 #EXTINF:-1 tvg-name="Seattle Mariners vs Athletics" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvyQ1xIPiF4gsIEiAggYIaSBSnbMFlpgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",02:10 AM - Seattle Mariners vs Athletics [Delta] - (23/08/2025)
 https://streamed.pk/api/stream/delta/live_mlb_mariners-athletics-live-streaming-960046992
 #EXTINF:-1 tvg-name="Seattle Mariners vs Athletics" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvyQ1xIPiF4gsIEiAggYIaSBSnbMFlpgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Baseball",02:10 AM - Seattle Mariners vs Athletics [Golf] - (23/08/2025)
 https://streamed.pk/api/stream/golf/1-athletics-at-seattle-mariners
+#EXTINF:-1 tvg-name="Canterbury-Bankstown Bulldogs W vs Canberra Raiders W" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Rugby",02:45 AM - Canterbury-Bankstown Bulldogs W vs Canberra Raiders W [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/canterbury-bankstown-bulldogs-w-vs-canberra-raiders-w
+#EXTINF:-1 tvg-name="Iran U21 vs South Korea U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",03:00 AM - Iran U21 vs South Korea U21 [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/iran-u21-vs-south-korea-u21
+#EXTINF:-1 tvg-name="Egypt U21 vs USA U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",03:00 AM - Egypt U21 vs USA U21 [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/egypt-u21-vs-usa-u21
+#EXTINF:-1 tvg-name="Bulgaria U21 vs Colombia U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",03:00 AM - Bulgaria U21 vs Colombia U21 [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/bulgaria-u21-vs-colombia-u21
+#EXTINF:-1 tvg-name="Tijuana vs CD Guadalajara" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQt2o4UIRNxBSQMEPp049IS-ALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football",03:00 AM - Tijuana vs CD Guadalajara [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/tijuana-vs-guadalajara
+#EXTINF:-1 tvg-name="Epic Fighting 62" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",04:00 AM - Epic Fighting 62 [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/epic-fighting-62
+#EXTINF:-1 tvg-name="Auckland Storm vs Bay of Plenty Volcanix" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Rugby",04:30 AM - Auckland Storm vs Bay of Plenty Volcanix [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/auckland-storm-v-bay-of-plenty-volcanix
+#EXTINF:-1 tvg-name="North Harbour vs Tasman" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGBRcZUkChDcQfEBCO4QiHLuMwCwJBT7DZ9FGBVa278vSyytTLRg7mKiEEA.webp" group-title="Rugby",04:35 AM - North Harbour vs Tasman [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/north-harbour-vs-tasman
 #EXTINF:-1 tvg-name="North Harbour vs Tasman" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGBRcZUkChDcQfEBCO4QiHLuMwCwJBT7DZ9FGBVa278vSyytTLRg7mKiEEA.webp" group-title="Rugby",04:35 AM - North Harbour vs Tasman [Charlie] - (23/08/2025)
 https://streamed.pk/api/stream/charlie/north-harbour-vs-tasman-1629457770
+#EXTINF:-1 tvg-name="Manly Sea Eagles vs Dolphins" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjAZgy1eSAgheILCBIhE0kDBCWziRfmBIKWEXMYptHFD23lGumI+jvRgXoxiEEA.webp" group-title="Rugby",05:00 AM - Manly Sea Eagles vs Dolphins [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/manly-sea-eagles-vs-dolphins
+#EXTINF:-1 tvg-name="Yomiuri Giants vs Yokohama DeNA BayStars" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAKowQcJHJDcQUkBBBmzhviBI7cBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Baseball",05:00 AM - Yomiuri Giants vs Yokohama DeNA BayStars [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/yomiuri-giants-vs-yokohama-baystars
+#EXTINF:-1 tvg-name="Hokkaido Nippon-Ham Fighters vs Fukuoka SoftBank Hawks" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAa24g4WbCC1SQEECZNa+IQyYVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Baseball",05:00 AM - Hokkaido Nippon-Ham Fighters vs Fukuoka SoftBank Hawks [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/nippon-ham-fighters-vs-fukuoka-s-hawks
+#EXTINF:-1 tvg-name="Gold Coast Titans W vs St. George Illawarra Dragons W" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Rugby",05:15 AM - Gold Coast Titans W vs St. George Illawarra Dragons W [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/gold-coast-titans-w-vs-st-george-illawarra-dragons-w
+#EXTINF:-1 tvg-name="ACT Comets vs Melbourne Stars" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",05:30 AM - ACT Comets vs Melbourne Stars [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/act-comets-vs-melbourne-stars
+#EXTINF:-1 tvg-name="Poland U21 vs Canada U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",06:00 AM - Poland U21 vs Canada U21 [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/poland-u21-vs-canada-u21
+#EXTINF:-1 tvg-name="Morocco U21 vs Turkey U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",06:00 AM - Morocco U21 vs Turkey U21 [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/morocco-u21-vs-turkey-u21
+#EXTINF:-1 tvg-name="Brazil U21 vs Czech Republic U21" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",06:00 AM - Brazil U21 vs Czech Republic U21 [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/brazil-u21-vs-czech-republic-u21
+#EXTINF:-1 tvg-name="MotoGP Hungary GP: Moto3 FP3" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",06:40 AM - MotoGP Hungary GP: Moto3 FP3 [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/motogp-hungary-gp-moto3-fp3
+#EXTINF:-1 tvg-name="UFC Fight Night: Prelims" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",07:00 AM - UFC Fight Night: Prelims [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/ufc-fight-night-prelims
+#EXTINF:-1 tvg-name="Auckland vs Northland" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPUIo52YAAYQ3EFJAoNxwyCt9cIEgWBIKfYbPoowK7W0-l6WWW0mWjBPMVEIIA.webp" group-title="Rugby",07:10 AM - Auckland vs Northland [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/auckland-vs-northland
+#EXTINF:-1 tvg-name="Auckland vs Northland" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPUIo52YAAYQ3EFJAoNxwyCt9cIEgWBIKfYbPoowK7W0-l6WWW0mWjBPMVEIIA.webp" group-title="Rugby",07:10 AM - Auckland vs Northland [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/auckland-vs-northland-1629457772
+#EXTINF:-1 tvg-name="Jake Wyllie vs Youssef Dib" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",08:00 AM - Jake Wyllie vs Youssef Dib [Delta] - (23/08/2025)
+https://streamed.pk/api/stream/delta/live-event_jake-wyllie-vs-youssef-dib-live-stream
+#EXTINF:-1 tvg-name="Aurora Media Worldwide: Silverstone Festival 2025, Day 2" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",08:00 AM - Aurora Media Worldwide: Silverstone Festival 2025, Day 2 [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/silverstone-festival-2025-day-2-1629457774
+#EXTINF:-1 tvg-name="Belgium tour of Austria: Austria vs Belgium" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",08:15 AM - Belgium tour of Austria: Austria vs Belgium [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/austria-vs-belgium-1629457775
+#EXTINF:-1 tvg-name="PDC: Women's Series 17-18" tvg-logo="https://streamed.pkhttps://ppv.to/assets/thumb/79c7b16d338264c0fac8f3f3b01b4bb6-thumbnail.jpg" group-title="Darts",09:00 AM - PDC: Women's Series 17-18 [Admin] - (23/08/2025)
+https://streamed.pk/api/stream/admin/ppv-pdc-women-s-series-17-18
+#EXTINF:-1 tvg-name="Iwaki vs Oita Trinita" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJTpgUsXCG4g++kDGNS9iFCBIFgSCn2Gz6OlSi5gy8IllnumtGCeYqIQQA.webp" group-title="Football",09:00 AM - Iwaki vs Oita Trinita [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/iwaki-vs-oita-trinita-1324774
+#EXTINF:-1 tvg-name="Blaublitz Akita vs Imabari" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHGVEgQolCG4g+IREZj7DIKSDMgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",09:00 AM - Blaublitz Akita vs Imabari [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/blaublitz-akita-vs-imabari-1324773
+#EXTINF:-1 tvg-name="FC Ryukyu vs Kamatamare Sanuki" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJ3wgSIKbBDcQfEImMwDRkChAQQMAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Football",09:00 AM - FC Ryukyu vs Kamatamare Sanuki [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/fc-ryukyu-vs-kamatamare-sanuki-1325131
+#EXTINF:-1 tvg-name="Nara Club vs Kochi United" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECAH4Q9KBBDdNIRHxAwDRlMZAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",09:00 AM - Nara Club vs Kochi United [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/nara-club-vs-kochi-united-1325127
+#EXTINF:-1 tvg-name="Sagamihara vs Giravanz Kitakyushu" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxDgUlML02apIPiBIbjWkDBAQrBYEgp9hs+ijAqdbD+XpZZOky0YB5iohBAA.webp" group-title="Football",09:00 AM - Sagamihara vs Giravanz Kitakyushu [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/sagamihara-vs-kitakyushu-1325125
+#EXTINF:-1 tvg-name="Tochigi City vs Zweigen Kanazawa" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJAzBIKYMFJDcQfEImMwDRkChNGCwbTH7DZ9FGBUou78vSyzPTLS6ovQhQA.webp" group-title="Football",09:00 AM - Tochigi City vs Zweigen Kanazawa [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/tochigi-city-vs-kanazawa-1325123
+#EXTINF:-1 tvg-name="Avispa Fukuoka vs Shimizu S-Pulse" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKLTAgpsEBBDdte41JAxcBkFb4FgSCjdYixKMCpRc35ellkemmm5iohBAA.webp" group-title="Football",09:00 AM - Avispa Fukuoka vs Shimizu S-Pulse [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/avispa-fukuoka-vs-shimizu-s-pulse-1324221
+#EXTINF:-1 tvg-name="Porsche Carrera Cup: Sachsenring - Race 1" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",09:25 AM - Porsche Carrera Cup: Sachsenring - Race 1 [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/sachsenring-race-1-1629457777
+#EXTINF:-1 tvg-name="Ventforet Kofu vs Hokkaido Consadole Sapporo" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRCFzYQ3BDpB8QiQzH2Gp+mAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football",09:30 AM - Ventforet Kofu vs Hokkaido Consadole Sapporo [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/ventforet-kofu-vs-consadole-sapporo-1324776
+#EXTINF:-1 tvg-name="Sydney FC vs Auckland FC" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",09:30 AM - Sydney FC vs Auckland FC [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/sydney-fc-vs-auckland-fc-1629457778
+#EXTINF:-1 tvg-name="Vanraure Hachinohe vs FC Osaka" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKKTsQ3ajB0g+IREf3dDIFMZBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",09:30 AM - Vanraure Hachinohe vs FC Osaka [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/vanraure-hachinohe-vs-osaka-1325122
+#EXTINF:-1 tvg-name="Parramatta Eels vs Sydney Roosters" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECHo4YIbht0gpmwyEQQQfECisaCwJBT7DZ9FGBUou78ltmemtGDuYqIQQA.webp" group-title="Rugby",09:35 AM - Parramatta Eels vs Sydney Roosters [Alpha] - (23/08/2025)
+https://streamed.pk/api/stream/alpha/parramatta-eels-w-vs-sydney-roosters-w
+#EXTINF:-1 tvg-name="ICC CWC Challenge League A: Kuwait vs Jersey" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",10:00 AM - ICC CWC Challenge League A: Kuwait vs Jersey [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/kuwait-vs-jersey-1629454690
+#EXTINF:-1 tvg-name="J3 League: Thespakusatsu Gunma vs Tochigi SC" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",10:00 AM - J3 League: Thespakusatsu Gunma vs Tochigi SC [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/thespakusatsu-gunma-vs-tochigi-sc-1325124
+#EXTINF:-1 tvg-name="K League 1: Gimcheon Sangmu FC vs Suwon City FC" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",10:00 AM - K League 1: Gimcheon Sangmu FC vs Suwon City FC [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/gimcheon-sangmu-fc-vs-suwon-city-fc-1340857
+#EXTINF:-1 tvg-name="Tokyo Verdy vs Sanfrecce Hiroshima" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECh5hpYFJBDcQfEImMwDRy8YVMkFPsNn09KzW23l6WWZqa0w2mKiEEA.webp" group-title="Football",10:00 AM - Tokyo Verdy vs Sanfrecce Hiroshima [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/tokyo-verdy-vs-sanfrecce-hiroshima-1324214
+#EXTINF:-1 tvg-name="Sagan Tosu vs Mito HollyHock" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXmGAyZaEHu4g+IREZggDRqedwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",10:00 AM - Sagan Tosu vs Mito HollyHock [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/sagan-tosu-vs-mito-hollyhock-1324780
+#EXTINF:-1 tvg-name="Tokushima Vortis vs Montedio Yamagata" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAyQQieAm0huIPgZAwTU3PpIgQBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football",10:00 AM - Tokushima Vortis vs Montedio Yamagata [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/tokushima-vortis-vs-montedio-yamagata-1324779
+#EXTINF:-1 tvg-name="Fujieda MYFC vs Ehime FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBwIuEKMTcQfEImMwQh41IsWCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",10:00 AM - Fujieda MYFC vs Ehime FC [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/fujieda-myfc-vs-ehime-fc-1324778
+#EXTINF:-1 tvg-name="RB Omiya Ardija vs Roasso Kumamoto" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBB1cYAaG4gNiDTBAGNUkKZQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",10:00 AM - RB Omiya Ardija vs Roasso Kumamoto [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/omiya-ardija-vs-roasso-kumamoto-1324775
+#EXTINF:-1 tvg-name="Daegu FC vs Jeju SK" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJJ1bgpIbrpB8QEEDBBmciHYYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football",10:00 AM - Daegu FC vs Jeju SK [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/daegu-fc-vs-jeju-united-fc-1340859
+#EXTINF:-1 tvg-name="Seongnam FC vs Gyeongnam FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELSQgUzWGC3cQfEDBBSQh4xBA2SuAsCQU+w2fRRgVOtp-L0ssjpMtGCeYqIQQA.webp" group-title="Football",10:00 AM - Seongnam FC vs Gyeongnam FC [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/seongnam-fc-vs-gyeongnam-fc-1337730
+#EXTINF:-1 tvg-name="Seoul E-Land vs Gimpo FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VekhCISIODBDcQfEBF0hzObUfMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",10:00 AM - Seoul E-Land vs Gimpo FC [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/seoul-e-land-fc-vs-gimpo-citizen-1337729
+#EXTINF:-1 tvg-name="Jeonnam Dragons vs Ansan Greeners" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJM3bVEUkNxC6+IErhBmjMEJZQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",10:00 AM - Jeonnam Dragons vs Ansan Greeners [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/jeonnam-dragons-vs-ansan-greeners-1337727
+#EXTINF:-1 tvg-name="Tegevajaro Miyazaki vs Azul Claro Numazu" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRFPLww3bCG4gpIPiBL7jFlCGsoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",10:00 AM - Tegevajaro Miyazaki vs Azul Claro Numazu [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/tegevajaro-miyazaki-vs-azul-claro-numazu-1325129
+#EXTINF:-1 tvg-name="Gainare Tottori vs Matsumoto Yamaga" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKPVrAwvPiG4gpIPSX3GQFmCCsSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",10:00 AM - Gainare Tottori vs Matsumoto Yamaga [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/gainare-tottori-vs-matsumoto-yamaga-1325128
+#EXTINF:-1 tvg-name="Fagiano Okayama vs Shonan Bellmare" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSBSV+sECRDcQfEImMwDRy8akFgSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp" group-title="Football",10:00 AM - Fagiano Okayama vs Shonan Bellmare [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/fagiano-okayama-vs-shonan-bellmare-1324220
+#EXTINF:-1 tvg-name="Cerezo Osaka vs Vissel Kobe" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaxAgUzOSG4gpIPiBL7jubZcbAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp" group-title="Football",10:00 AM - Cerezo Osaka vs Vissel Kobe [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/cerezo-osaka-vs-vissel-kobe-1324219
+#EXTINF:-1 tvg-name="Gamba Osaka vs Yokohama FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUSErQSIRNxBSQfEDv3GcISwYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football",10:00 AM - Gamba Osaka vs Yokohama FC [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/gamba-osaka-vs-yokohama-fc-1324218
+#EXTINF:-1 tvg-name="Nagoya Grampus vs Kawasaki Frontale" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGF74QokMCkhuIPiEQmYh41ZNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",10:00 AM - Nagoya Grampus vs Kawasaki Frontale [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/nagoya-grampus-vs-kawasaki-frontale-1324217
+#EXTINF:-1 tvg-name="Albirex Niigata vs Kashima Antlers" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reonpNeEENxB89IGEam4QJCyHgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",10:00 AM - Albirex Niigata vs Kashima Antlers [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/albirex-niigata-vs-kashima-1324216
+#EXTINF:-1 tvg-name="Júbilo Iwata vs Kataller Toyama" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMTB1cwJCG4g+IREZj7DIKeZgFdFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp" group-title="Football",10:30 AM - Júbilo Iwata vs Kataller Toyama [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/jubilo-iwata-vs-kataller-toyama-1324777
+#EXTINF:-1 tvg-name="Gwangju FC vs Gangwon FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRCRBSwApiBDctufSAimDxviBgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",10:30 AM - Gwangju FC vs Gangwon FC [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/gwangju-fc-vs-gangwon-fc-1340858
+#EXTINF:-1 tvg-name="Bucheon FC 1995 vs Cheonan City" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJvUQQQMkiG4g+IGDv2GQ2kLgsFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",10:30 AM - Bucheon FC 1995 vs Cheonan City [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/bucheon-fc-1995-vs-cheonan-city-1337728
+#EXTINF:-1 tvg-name="Yokohama F Marinos vs Machida Zelvia" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAotuYGD0huIPiEQmYh41ZMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",10:30 AM - Yokohama F Marinos vs Machida Zelvia [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/yokohama-f-marinos-vs-machida-zelvia-1324215
+#EXTINF:-1 tvg-name="European PGA Tour: Betfred British Masters, Third Round" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Golf",11:00 AM - European PGA Tour: Betfred British Masters, Third Round [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/betfred-british-masters-third-round-1629457788
+#EXTINF:-1 tvg-name="Karlsruhe vs Eintracht Braunschweig" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjgghZaEDGBIQvEFhAkQWmBZDUjNmyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football",11:00 AM - Karlsruhe vs Eintracht Braunschweig [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/karlsruher-sc-vs-eintracht-braunschweig-1388636
+#EXTINF:-1 tvg-name="Australia Rugby Women vs Samoa Rugby Women" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvyQhesEGK28QWPSekgYISxEvmWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Rugby",11:00 AM - Australia Rugby Women vs Samoa Rugby Women [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/australia-w-vs-samoa-w-1629457787
+#EXTINF:-1 tvg-name="UFC Fight Night 257 Walker vs Zhang" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiAEhZ4FMGkheILCBKnjISycswQzfMCQUsIuYxRhVejp-KNqcnoO9GCe4mIQQA.webp" group-title="Fight",11:00 AM - UFC Fight Night 257 Walker vs Zhang [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/ufc-fight-night-walker-vs-zhang-prelims-1629457771
+#EXTINF:-1 tvg-name="UFC Fight Night 257 Walker vs Zhang" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiAEhZ4FMGkheILCBKnjISycswQzfMCQUsIuYxRhVejp-KNqcnoO9GCe4mIQQA.webp" group-title="Fight",11:00 AM - UFC Fight Night 257 Walker vs Zhang [Delta] - (23/08/2025)
+https://streamed.pk/api/stream/delta/live-event_ufc-fight-night-shanghai-live-stream
+#EXTINF:-1 tvg-name="Manchester City vs Tottenham Hotspur" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGT4gQsvmG4gDWkiBghEOMwYggUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football",11:30 AM - Manchester City vs Tottenham Hotspur [Admin] - (23/08/2025)
+https://streamed.pk/api/stream/admin/ppv-manchester-city-vs-tottenham-hotspur
+#EXTINF:-1 tvg-name="Free State Cheetahs vs Golden Lions" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAZYIFGF41KIXiCwgSIRNJAwLt81hZIKD9qPG7VKHmDLwi1OS98VmAwH3ExCCA.webp" group-title="Rugby",12:00 PM - Free State Cheetahs vs Golden Lions [Charlie] - (23/08/2025)
+https://streamed.pk/api/stream/charlie/cheetahs-vs-lions-1629457789
