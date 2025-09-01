@@ -1,231 +1,73 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="NWSL: Angel City vs Bay FC" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",01:00 AM - NWSL: Angel City vs Bay FC [Hotel] - (01/09/2025)
-https://streamed.pk/api/stream/hotel/nwsl-angel-city-vs-bay-fc
-#EXTINF:-1 tvg-name="Pachuca W vs Club America W" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",01:00 AM - Pachuca W vs Club America W [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756688400000-pachuca-w-club-america-w
-#EXTINF:-1 tvg-name="Pachuca W vs Club America W" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",01:00 AM - Pachuca W vs Club America W [Intel] - (01/09/2025)
-https://streamed.pk/api/stream/intel/pachuca-w-club-america-w
-#EXTINF:-1 tvg-name="Southern Illinois 100" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",12:39 AM - Southern Illinois 100 [Intel] - (01/09/2025)
-https://streamed.pk/api/stream/intel/southern-illinois-100
-#EXTINF:-1 tvg-name="Colombia - Primera A: Santa Fe vs Once Caldas" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:30 AM - Colombia - Primera A: Santa Fe vs Once Caldas [Hotel] - (01/09/2025)
-https://streamed.pk/api/stream/hotel/colombia-primera-a-santa-fe-vs-once-caldas
-#EXTINF:-1 tvg-name="NCAA College Soccer: University of Missouri-Kansas City vs Northern Illinois University" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:30 AM - NCAA College Soccer: University of Missouri-Kansas City vs Northern Illinois University [Hotel] - (01/09/2025)
-https://streamed.pk/api/stream/hotel/ncaa-college-soccer-university-of-missouri-kansas-city-vs-northern-illinois-university
-#EXTINF:-1 tvg-name="ARCA Menards Series Southern Illinois 100 DuQuoin State Fairgrounds" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",12:30 AM - ARCA Menards Series Southern Illinois 100 DuQuoin State Fairgrounds [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/arca-menards-series-southern-illinois-100-duquoin-state-fairgrounds
-#EXTINF:-1 tvg-name="ARCA Menards Series Southern Illinois 100 DuQuoin State Fairgrounds" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",12:30 AM - ARCA Menards Series Southern Illinois 100 DuQuoin State Fairgrounds [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756686600000-arca-menards-series-race-southern-illinois-100
-#EXTINF:-1 tvg-name="ARCA Menards Series Southern Illinois 100 DuQuoin State Fairgrounds" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",12:30 AM - ARCA Menards Series Southern Illinois 100 DuQuoin State Fairgrounds [Charlie] - (01/09/2025)
-https://streamed.pk/api/stream/charlie/southern-illinois-100-1629460064
-#EXTINF:-1 tvg-name="Golden State Valkyries vs Indiana Fever" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXAmAyADLlAhuIPiAggSIKSBRHcIOyQLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Basketball",12:30 AM - Golden State Valkyries vs Indiana Fever [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/golden-state-valkyries-w-vs-indiana-fever-w
-#EXTINF:-1 tvg-name="Golden State Valkyries vs Indiana Fever" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXAmAyADLlAhuIPiAggSIKSBRHcIOyQLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Basketball",12:30 AM - Golden State Valkyries vs Indiana Fever [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756686600000-indiana-fever-w-vs-golden-state-valkyries-w
-#EXTINF:-1 tvg-name="Golden State Valkyries vs Indiana Fever" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXAmAyADLlAhuIPiAggSIKSBRHcIOyQLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Basketball",12:30 AM - Golden State Valkyries vs Indiana Fever [Charlie] - (01/09/2025)
-https://streamed.pk/api/stream/charlie/indiana-fever-vs-golden-state-valkyries-1629460063
-#EXTINF:-1 tvg-name="Golden State Valkyries vs Indiana Fever" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXAmAyADLlAhuIPiAggSIKSBRHcIOyQLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Basketball",12:30 AM - Golden State Valkyries vs Indiana Fever [Hotel] - (01/09/2025)
-https://streamed.pk/api/stream/hotel/wnba-golden-state-valkyries-w-vs-indiana-fever-w
-#EXTINF:-1 tvg-name="Golden State Valkyries vs Indiana Fever" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXAmAyADLlAhuIPiAggSIKSBRHcIOyQLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Basketball",12:30 AM - Golden State Valkyries vs Indiana Fever [Intel] - (01/09/2025)
-https://streamed.pk/api/stream/intel/golden-state-valkyries-w-indiana-fever-w
-#EXTINF:-1 tvg-name="Argentina - Primera Nacional: Ferro Carril Oeste vs Racing Córdoba" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:15 AM - Argentina - Primera Nacional: Ferro Carril Oeste vs Racing Córdoba [Hotel] - (01/09/2025)
-https://streamed.pk/api/stream/hotel/argentina-primera-nacional-ferro-carril-oeste-vs-racing-c-rdoba
-#EXTINF:-1 tvg-name="Argentina - Primera Nacional: Deportivo Morón vs Estudiantes Caseros" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",12:15 AM - Argentina - Primera Nacional: Deportivo Morón vs Estudiantes Caseros [Hotel] - (01/09/2025)
-https://streamed.pk/api/stream/hotel/argentina-primera-nacional-deportivo-mor-n-vs-estudiantes-caseros
-#EXTINF:-1 tvg-name="Deportivo Moron vs CA Estudiantes" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:15 AM - Deportivo Moron vs CA Estudiantes [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756685700000-deportivo-moron-ca-estudiantes
-#EXTINF:-1 tvg-name="Deportivo Moron vs CA Estudiantes" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:15 AM - Deportivo Moron vs CA Estudiantes [Intel] - (01/09/2025)
-https://streamed.pk/api/stream/intel/deportivo-moron-estudiantes-ba
-#EXTINF:-1 tvg-name="Louis Armstrong: Aryna Sabalenka vs Cristina Bucsa" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",12:15 AM - Louis Armstrong: Aryna Sabalenka vs Cristina Bucsa [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/louis-armstrong-aryna-sabalenka-vs-cristina-buc-a
-#EXTINF:-1 tvg-name="Louis Armstrong: Aryna Sabalenka vs Cristina Bucsa" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",12:15 AM - Louis Armstrong: Aryna Sabalenka vs Cristina Bucsa [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756674000000-us-open-louis-armstrong-stadium-sabalenka-bucsa
-#EXTINF:-1 tvg-name="Louis Armstrong: Aryna Sabalenka vs Cristina Bucsa" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",12:15 AM - Louis Armstrong: Aryna Sabalenka vs Cristina Bucsa [Intel] - (01/09/2025)
-https://streamed.pk/api/stream/intel/aryna-sabalenka-cristina-bucsa
-#EXTINF:-1 tvg-name="Racing Club vs Union (Santa Fe)" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:15 AM - Racing Club vs Union (Santa Fe) [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/racing-club-vs-union-santa-fe
-#EXTINF:-1 tvg-name="Racing Club vs Union (Santa Fe)" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:15 AM - Racing Club vs Union (Santa Fe) [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756685700000-racing-club-union-de-santa-fe
-#EXTINF:-1 tvg-name="Racing Club vs Union (Santa Fe)" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:15 AM - Racing Club vs Union (Santa Fe) [Intel] - (01/09/2025)
-https://streamed.pk/api/stream/intel/racing-club-union-de-santa
-#EXTINF:-1 tvg-name="Racing Club vs Unión" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUQIAMIFCCjcQBqXpMlchkDBDWFTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Football",12:15 AM - Racing Club vs Unión [Hotel] - (01/09/2025)
-https://streamed.pk/api/stream/hotel/argentina-primera-divisi-n-racing-club-vs-uni-n-santa-fe
-#EXTINF:-1 tvg-name="AmeriCup (M): FINALE" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Basketball",12:10 AM - AmeriCup (M): FINALE [Hotel] - (01/09/2025)
-https://streamed.pk/api/stream/hotel/americup-m-finale
-#EXTINF:-1 tvg-name="Argentina vs Brazil" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Basketball",12:10 AM - Argentina vs Brazil [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/argentina-vs-brazil
-#EXTINF:-1 tvg-name="Argentina vs Brazil" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Basketball",12:10 AM - Argentina vs Brazil [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756685400000-argentina-brazil
-#EXTINF:-1 tvg-name="Argentina vs Brazil" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Basketball",12:10 AM - Argentina vs Brazil [Intel] - (01/09/2025)
-https://streamed.pk/api/stream/intel/argentina-brazil
-#EXTINF:-1 tvg-name="WWE Monday Night RAW" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",12:00 AM - WWE Monday Night RAW [Hotel] - (01/09/2025)
-https://streamed.pk/api/stream/hotel/wwe-monday-night-raw
-#EXTINF:-1 tvg-name="2025 Louie Vermeil Classic at Calistoga Speedway" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",12:00 AM - 2025 Louie Vermeil Classic at Calistoga Speedway [Hotel] - (01/09/2025)
-https://streamed.pk/api/stream/hotel/2025-louie-vermeil-classic-at-calistoga-speedway
-#EXTINF:-1 tvg-name="  NCAA FBS: TCU vs North Carolina" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="American Football",12:00 AM -   NCAA FBS: TCU vs North Carolina [Hotel] - (01/09/2025)
-https://streamed.pk/api/stream/hotel/-ncaa-fbs-tcu-vs-north-carolina
-#EXTINF:-1 tvg-name="WNBA: Minnesota Lynx W vs Dallas Wings W" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Basketball",12:00 AM - WNBA: Minnesota Lynx W vs Dallas Wings W [Hotel] - (01/09/2025)
-https://streamed.pk/api/stream/hotel/wnba-minnesota-lynx-w-vs-dallas-wings-w
-#EXTINF:-1 tvg-name="Mictlan vs CSD Municipal" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 AM - Mictlan vs CSD Municipal [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756684800000-mictlan-csd-municipal
-#EXTINF:-1 tvg-name="San Martin T. vs Arsenal Sarandi" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 AM - San Martin T. vs Arsenal Sarandi [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756684800000-san-martin-t-arsenal-sarandi
-#EXTINF:-1 tvg-name="San Martin T. vs Arsenal Sarandi" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 AM - San Martin T. vs Arsenal Sarandi [Intel] - (01/09/2025)
-https://streamed.pk/api/stream/intel/san-martin-tucuman-arsenal-de-sarandi
-#EXTINF:-1 tvg-name="Tight End University" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",12:00 AM - Tight End University [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/tight-end-university
-#EXTINF:-1 tvg-name="Red Tails Classic Band Halftime Performance" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="American Football",12:00 AM - Red Tails Classic Band Halftime Performance [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/red-tails-classic-band-halftime-performance
-#EXTINF:-1 tvg-name="Seattle Sounders FC vs Inter Miami" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 AM - Seattle Sounders FC vs Inter Miami [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/leagues-cup-final-seattle-sounders-fc-vs-inter-miami-cf
-#EXTINF:-1 tvg-name="Seattle Sounders FC vs Inter Miami" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 AM - Seattle Sounders FC vs Inter Miami [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756684800000-seattle-sounders-inter-miami
-#EXTINF:-1 tvg-name="Seattle Sounders FC vs Inter Miami" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 AM - Seattle Sounders FC vs Inter Miami [Charlie] - (01/09/2025)
-https://streamed.pk/api/stream/charlie/seattle-sounders-vs-inter-miami-1629460616
-#EXTINF:-1 tvg-name="Seattle Sounders FC vs Inter Miami" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 AM - Seattle Sounders FC vs Inter Miami [Hotel] - (01/09/2025)
-https://streamed.pk/api/stream/hotel/leagues-cup-final-seattle-sounders-fc-vs-inter-miami
-#EXTINF:-1 tvg-name="Seattle Sounders FC vs Inter Miami" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 AM - Seattle Sounders FC vs Inter Miami [Intel] - (01/09/2025)
-https://streamed.pk/api/stream/intel/seattle-sounders-inter-miami
-#EXTINF:-1 tvg-name="Herediano vs Municipal Liberia" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 AM - Herediano vs Municipal Liberia [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756684800000-herediano-liberia
-#EXTINF:-1 tvg-name="Herediano vs Municipal Liberia" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 AM - Herediano vs Municipal Liberia [Intel] - (01/09/2025)
-https://streamed.pk/api/stream/intel/herediano-municipal-liberia
-#EXTINF:-1 tvg-name="Minnesota United FC 2 vs The Town FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rESCgCZIENxB8QiXYn26IRzQWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football",12:00 AM - Minnesota United FC 2 vs The Town FC [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756684800000-minnesota-united-2-town-fc
-#EXTINF:-1 tvg-name="Minnesota United FC 2 vs The Town FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rESCgCZIENxB8QiXYn26IRzQWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football",12:00 AM - Minnesota United FC 2 vs The Town FC [Intel] - (01/09/2025)
-https://streamed.pk/api/stream/intel/minnesota-united-ii-the-town-fc
-#EXTINF:-1 tvg-name="Houston Dynamo 2 vs St. Louis City SC 2" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMNCwNgSMEhDcQfEDBBmIBkCSuWSBHRT7DZ9FGBUou78vS2jPTLQaovQhQA.webp" group-title="Football",12:00 AM - Houston Dynamo 2 vs St. Louis City SC 2 [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756684800000-houston-dynamo-2-st-louis-city-2
-#EXTINF:-1 tvg-name="Houston Dynamo 2 vs St. Louis City SC 2" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMNCwNgSMEhDcQfEDBBmIBkCSuWSBHRT7DZ9FGBUou78vS2jPTLQaovQhQA.webp" group-title="Football",12:00 AM - Houston Dynamo 2 vs St. Louis City SC 2 [Intel] - (01/09/2025)
-https://streamed.pk/api/stream/intel/houston-dynamo-ii-st-louis-city-ii
-#EXTINF:-1 tvg-name="Los Angeles Sparks vs Washington Mystics" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMjm5gyfEIm4hdEECRBSQKQ7hA34BYEgp9hs+im1sUXbeXpZZXky0YB70ohBAA.webp" group-title="Basketball",12:00 AM - Los Angeles Sparks vs Washington Mystics [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/los-angeles-sparks-w-vs-washington-mystics-w
-#EXTINF:-1 tvg-name="Los Angeles Sparks vs Washington Mystics" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMjm5gyfEIm4hdEECRBSQKQ7hA34BYEgp9hs+im1sUXbeXpZZXky0YB70ohBAA.webp" group-title="Basketball",12:00 AM - Los Angeles Sparks vs Washington Mystics [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756684800000-washington-mystics-w-vs-los-angeles-sparks-w
-#EXTINF:-1 tvg-name="Los Angeles Sparks vs Washington Mystics" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMjm5gyfEIm4hdEECRBSQKQ7hA34BYEgp9hs+im1sUXbeXpZZXky0YB70ohBAA.webp" group-title="Basketball",12:00 AM - Los Angeles Sparks vs Washington Mystics [Charlie] - (01/09/2025)
-https://streamed.pk/api/stream/charlie/washington-mystics-vs-los-angeles-sparks-1629460062
-#EXTINF:-1 tvg-name="Los Angeles Sparks vs Washington Mystics" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMjm5gyfEIm4hdEECRBSQKQ7hA34BYEgp9hs+im1sUXbeXpZZXky0YB70ohBAA.webp" group-title="Basketball",12:00 AM - Los Angeles Sparks vs Washington Mystics [Hotel] - (01/09/2025)
-https://streamed.pk/api/stream/hotel/wnba-los-angeles-sparks-w-vs-washington-mystics-w
-#EXTINF:-1 tvg-name="Los Angeles Sparks vs Washington Mystics" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMjm5gyfEIm4hdEECRBSQKQ7hA34BYEgp9hs+im1sUXbeXpZZXky0YB70ohBAA.webp" group-title="Basketball",12:00 AM - Los Angeles Sparks vs Washington Mystics [Intel] - (01/09/2025)
-https://streamed.pk/api/stream/intel/los-angeles-sparks-wvs-washington-mystics-w
-#EXTINF:-1 tvg-name="Saskatchewan Roughriders vs Winnipeg Blue Bombers" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKZBAwQGjdu4g+IAzhQgSIMziOWmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="American Football",12:00 AM - Saskatchewan Roughriders vs Winnipeg Blue Bombers [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/saskatchewan-roughriders-vs-winnipeg-blue-bombers
-#EXTINF:-1 tvg-name="Deportivo Tachira vs Estudiantes Merida" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",11:30 PM - Deportivo Tachira vs Estudiantes Merida [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756683000000-deportivo-tachira-estudiantes-merida
-#EXTINF:-1 tvg-name="Wilstermann vs Aurora" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",11:30 PM - Wilstermann vs Aurora [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756683000000-wilstermann-aurora
-#EXTINF:-1 tvg-name="Boston River vs Progreso" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",11:30 PM - Boston River vs Progreso [Alpha] - (31/08/2025)
-https://streamed.pk/api/stream/alpha/boston-river-vs-progreso
-#EXTINF:-1 tvg-name="Boston River vs Progreso" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",11:30 PM - Boston River vs Progreso [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756683000000-boston-river-progreso
-#EXTINF:-1 tvg-name="Boston River vs Progreso" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",11:30 PM - Boston River vs Progreso [Intel] - (31/08/2025)
-https://streamed.pk/api/stream/intel/boston-river-progreso
-#EXTINF:-1 tvg-name="Sport Club do Recife vs Vasco da Gama" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXhBAoQUkOD3cdIGCEOaT5oxKZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football",11:30 PM - Sport Club do Recife vs Vasco da Gama [Alpha] - (31/08/2025)
-https://streamed.pk/api/stream/alpha/sport-vs-vasco-da-gama
-#EXTINF:-1 tvg-name="Sport Club do Recife vs Vasco da Gama" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXhBAoQUkOD3cdIGCEOaT5oxKZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football",11:30 PM - Sport Club do Recife vs Vasco da Gama [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756683000000-sport-recife-vasco
-#EXTINF:-1 tvg-name="Sport Club do Recife vs Vasco da Gama" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXhBAoQUkOD3cdIGCEOaT5oxKZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football",11:30 PM - Sport Club do Recife vs Vasco da Gama [Intel] - (31/08/2025)
-https://streamed.pk/api/stream/intel/sport-recife-vasco
-#EXTINF:-1 tvg-name="Internacional vs Fortaleza" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXgUZWMFJDcQ+iCBMoNIEpdMGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",11:30 PM - Internacional vs Fortaleza [Alpha] - (31/08/2025)
-https://streamed.pk/api/stream/alpha/internacional-vs-fortaleza
-#EXTINF:-1 tvg-name="Internacional vs Fortaleza" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXgUZWMFJDcQ+iCBMoNIEpdMGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",11:30 PM - Internacional vs Fortaleza [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756683000000-internacional-fortaleza
-#EXTINF:-1 tvg-name="Internacional vs Fortaleza" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXgUZWMFJDcQ+iCBMoNIEpdMGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",11:30 PM - Internacional vs Fortaleza [Intel] - (31/08/2025)
-https://streamed.pk/api/stream/intel/internacional-fortaleza
-#EXTINF:-1 tvg-name="FC Cincinnati 2 vs Philadelphia Union II" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VROBkp+7ENxB8QGo3pBmIJxsCQU+w2fRRgV2ts-L0ss7U1phnYqIQQA.webp" group-title="Football",11:30 PM - FC Cincinnati 2 vs Philadelphia Union II [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756683000000-cincinnati-2-philadelphia-union-ii
-#EXTINF:-1 tvg-name="Miami (FL) vs Notre Dame" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="American Football",11:30 PM - Miami (FL) vs Notre Dame [Alpha] - (31/08/2025)
-https://streamed.pk/api/stream/alpha/6-notre-dame-vs-10-miami
-#EXTINF:-1 tvg-name="Miami (FL) vs Notre Dame" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="American Football",11:30 PM - Miami (FL) vs Notre Dame [Charlie] - (31/08/2025)
-https://streamed.pk/api/stream/charlie/notre-dame-vs-miami-1629460612
-#EXTINF:-1 tvg-name="Miami (FL) vs Notre Dame" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="American Football",11:30 PM - Miami (FL) vs Notre Dame [Intel] - (31/08/2025)
-https://streamed.pk/api/stream/intel/notre-dame-miami
-#EXTINF:-1 tvg-name="Deportes Tolima vs Fortaleza CEIF" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXkmJYwZCCG4g+IEiD2JEJvQakFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp" group-title="Football",11:20 PM - Deportes Tolima vs Fortaleza CEIF [Alpha] - (31/08/2025)
-https://streamed.pk/api/stream/alpha/deportes-tolima-vs-fortaleza
-#EXTINF:-1 tvg-name="Deportes Tolima vs Fortaleza CEIF" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXkmJYwZCCG4g+IEiD2JEJvQakFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp" group-title="Football",11:20 PM - Deportes Tolima vs Fortaleza CEIF [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756682400000-deportes-tolima-fortaleza
-#EXTINF:-1 tvg-name="Deportes Tolima vs Fortaleza CEIF" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXkmJYwZCCG4g+IEiD2JEJvQakFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp" group-title="Football",11:20 PM - Deportes Tolima vs Fortaleza CEIF [Intel] - (31/08/2025)
-https://streamed.pk/api/stream/intel/deportes-tolima-fortaleza
-#EXTINF:-1 tvg-name="La Equidad vs Deportivo Pasto" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKhBAhgSHiE3cQUkHxAl9IQzmOIpBHRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",11:20 PM - La Equidad vs Deportivo Pasto [Alpha] - (31/08/2025)
-https://streamed.pk/api/stream/alpha/la-equidad-vs-dep-pasto
-#EXTINF:-1 tvg-name="La Equidad vs Deportivo Pasto" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKhBAhgSHiE3cQUkHxAl9IQzmOIpBHRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",11:20 PM - La Equidad vs Deportivo Pasto [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756682400000-la-equidad-deportivo-pasto
-#EXTINF:-1 tvg-name="La Equidad vs Deportivo Pasto" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKhBAhgSHiE3cQUkHxAl9IQzmOIpBHRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",11:20 PM - La Equidad vs Deportivo Pasto [Intel] - (31/08/2025)
-https://streamed.pk/api/stream/intel/la-equidad-dep-pasto
-#EXTINF:-1 tvg-name="Arthur Ashe: Novak Djokovic vs Jan-Lennard Struff" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:15 PM - Arthur Ashe: Novak Djokovic vs Jan-Lennard Struff [Alpha] - (31/08/2025)
-https://streamed.pk/api/stream/alpha/arthur-ashe-novak-djokovic-vs-jan-lennard-struff
-#EXTINF:-1 tvg-name="Platense Puerto Cortés vs Choloma" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",11:15 PM - Platense Puerto Cortés vs Choloma [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756682100000-platense-choloma
-#EXTINF:-1 tvg-name="Philadelphia Phillies vs Atlanta Braves" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHw0hu2sL1A7NJEBBAwQUkChCJzCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Baseball",11:10 PM - Philadelphia Phillies vs Atlanta Braves [Alpha] - (31/08/2025)
-https://streamed.pk/api/stream/alpha/philadelphia-phillies-vs-atlanta-braves
-#EXTINF:-1 tvg-name="Philadelphia Phillies vs Atlanta Braves" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHw0hu2sL1A7NJEBBAwQUkChCJzCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Baseball",11:10 PM - Philadelphia Phillies vs Atlanta Braves [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756681800000-atlanta-braves-vs-philadelphia-phillies
-#EXTINF:-1 tvg-name="Philadelphia Phillies vs Atlanta Braves" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHw0hu2sL1A7NJEBBAwQUkChCJzCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Baseball",11:10 PM - Philadelphia Phillies vs Atlanta Braves [Charlie] - (31/08/2025)
-https://streamed.pk/api/stream/charlie/atlanta-braves-vs-philadelphia-phillies-1629460060
-#EXTINF:-1 tvg-name="Philadelphia Phillies vs Atlanta Braves" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHw0hu2sL1A7NJEBBAwQUkChCJzCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Baseball",11:10 PM - Philadelphia Phillies vs Atlanta Braves [Intel] - (31/08/2025)
-https://streamed.pk/api/stream/intel/philadelphia-phillies-atlanta-braves
-#EXTINF:-1 tvg-name="Tuskegee - Winston-Salem" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",11:00 PM - Tuskegee - Winston-Salem [Intel] - (31/08/2025)
-https://streamed.pk/api/stream/intel/tuskegee-winston-salem
-#EXTINF:-1 tvg-name="Epic Pro Wrestling: Better Each Day 3" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",11:00 PM - Epic Pro Wrestling: Better Each Day 3 [Charlie] - (31/08/2025)
-https://streamed.pk/api/stream/charlie/better-each-day-3-1629460061
-#EXTINF:-1 tvg-name="US Open vs Arthur Ashe Stadium Djokovic - Struff" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:00 PM - US Open vs Arthur Ashe Stadium Djokovic - Struff [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756681200000-us-open-arthur-ashe-stadium-djokovic-struff
-#EXTINF:-1 tvg-name="US Open vs Arthur Ashe Stadium Djokovic - Struff" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:00 PM - US Open vs Arthur Ashe Stadium Djokovic - Struff [Charlie] - (31/08/2025)
-https://streamed.pk/api/stream/charlie/arthur-ashe-stadium-1629459306
-#EXTINF:-1 tvg-name="Barcelona Guayaquil vs CD Universidad Catolica" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",11:00 PM - Barcelona Guayaquil vs CD Universidad Catolica [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756681200000-barcelona-guayaquil-cd-universidad-catolica
-#EXTINF:-1 tvg-name="Barcelona Guayaquil vs CD Universidad Catolica" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",11:00 PM - Barcelona Guayaquil vs CD Universidad Catolica [Intel] - (31/08/2025)
-https://streamed.pk/api/stream/intel/barcelona-sc-u-catolica
-#EXTINF:-1 tvg-name="Men's & Women's Round of 16 ESPN2" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:00 PM - Men's & Women's Round of 16 ESPN2 [Alpha] - (31/08/2025)
-https://streamed.pk/api/stream/alpha/men-s-women-s-round-of-16-espn2
-#EXTINF:-1 tvg-name="All Star (USA vs The World) & Megabrawl Finals: Philadelphia Smoke v NYC Attitude" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",11:00 PM - All Star (USA vs The World) & Megabrawl Finals: Philadelphia Smoke v NYC Attitude [Alpha] - (31/08/2025)
-https://streamed.pk/api/stream/alpha/all-star-usa-vs-the-world-megabrawl-finals-philadelphia-smoke-vs-nyc-attitude
-#EXTINF:-1 tvg-name="Whitecaps FC 2 vs Portland Timbers II" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDFyDR6nNxB8NIYxBD6SIU-pAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",11:00 PM - Whitecaps FC 2 vs Portland Timbers II [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756681200000-vancouver-whitecaps-2-portland-timbers-2
-#EXTINF:-1 tvg-name="Orlando City B vs Crown Legacy" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGSFxsw3bCG4g+IGJpAR9IEpYsKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",11:00 PM - Orlando City B vs Crown Legacy [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756681200000-orlando-city-b-crown-legacy
-#EXTINF:-1 tvg-name="New York Red Bulls II vs Columbus Crew 2" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKbDDcQ8MCH4htfHSFOJtpiCZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",11:00 PM - New York Red Bulls II vs Columbus Crew 2 [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756681200000-new-york-red-bulls-2-columbus-crew-2
-#EXTINF:-1 tvg-name="Court 11: Alexander Erler/Robert Galloway vs Jakob Schnaitter/Mark Wallner" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",10:50 PM - Court 11: Alexander Erler/Robert Galloway vs Jakob Schnaitter/Mark Wallner [Alpha] - (31/08/2025)
-https://streamed.pk/api/stream/alpha/court-11-alexander-erler-robert-galloway-vs-jakob-schnaitter-mark-wallner
-#EXTINF:-1 tvg-name="Jacksonville Jumbo Shrimp - Rochester Red Wings" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Baseball",10:35 PM - Jacksonville Jumbo Shrimp - Rochester Red Wings [Intel] - (31/08/2025)
-https://streamed.pk/api/stream/intel/jacksonville-jumbo-shrimp-rochester-red-wings
-#EXTINF:-1 tvg-name="Court 12: Vasil Kirkov/Bart Stevens. vs Hugo Nys/Edouard Roger-Vasselin" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",10:35 PM - Court 12: Vasil Kirkov/Bart Stevens. vs Hugo Nys/Edouard Roger-Vasselin [Alpha] - (31/08/2025)
-https://streamed.pk/api/stream/alpha/court-12-vasil-kirkov-bart-stevens-vs-hugo-nys-edouard-roger-vasselin
-#EXTINF:-1 tvg-name="NHRA Drag Racing: Indianapolis" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",10:30 PM - NHRA Drag Racing: Indianapolis [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756679400000-nhra-drag-racing-indianapolis
-#EXTINF:-1 tvg-name="Nublense vs Union Espanola" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",10:30 PM - Nublense vs Union Espanola [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756679400000-nublense-union-espanola
-#EXTINF:-1 tvg-name="Court 17: Fanny Stollar/Wu Fang-Hsien vs Miyu Kato/Renata Zarazua" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",10:15 PM - Court 17: Fanny Stollar/Wu Fang-Hsien vs Miyu Kato/Renata Zarazua [Alpha] - (31/08/2025)
-https://streamed.pk/api/stream/alpha/court-17-fanny-stollar-wu-fang-hsien-vs-miyu-kato-renata-zarazua
-#EXTINF:-1 tvg-name="River Plate vs San Martín de San Juan" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGBBawMthBDcQfEPqkgUJrVbPmmSCn2Gz6GlSi5gy8IllnumtGCeYqIQQA.webp" group-title="Football",10:15 PM - River Plate vs San Martín de San Juan [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756678500000-river-plate-san-martin-de-san-juan
-#EXTINF:-1 tvg-name="Cook Out Southern 500" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",10:00 PM - Cook Out Southern 500 [Intel] - (31/08/2025)
-https://streamed.pk/api/stream/intel/cook-out-southern-500
-#EXTINF:-1 tvg-name="US Open vs Court 12 Kirkov/Stevens - Nys/Roger-Vasselin" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",10:00 PM - US Open vs Court 12 Kirkov/Stevens - Nys/Roger-Vasselin [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756677600000-us-open-court-12-kirkov-stevens-nys-roger-vasselin
-#EXTINF:-1 tvg-name="Anzoategui FC vs Puerto Cabello" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",10:00 PM - Anzoategui FC vs Puerto Cabello [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756677600000-anzoategui-fc-puerto-cabello
-#EXTINF:-1 tvg-name="Toluca W vs Queretaro W" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",10:00 PM - Toluca W vs Queretaro W [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756677600000-toluca-w-queretaro-w
-#EXTINF:-1 tvg-name="NASCAR Cup Series: Cook Out Southern 500 Darlington Raceway" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",10:00 PM - NASCAR Cup Series: Cook Out Southern 500 Darlington Raceway [Alpha] - (31/08/2025)
-https://streamed.pk/api/stream/alpha/nascar-cup-series-cook-out-southern-500-darlington-raceway
-#EXTINF:-1 tvg-name="NASCAR Cup Series: Cook Out Southern 500 Darlington Raceway" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",10:00 PM - NASCAR Cup Series: Cook Out Southern 500 Darlington Raceway [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756677600000-nascar-cup-series-race-cook-out-southern-500
-#EXTINF:-1 tvg-name="Los Andes vs San Miguel" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",10:00 PM - Los Andes vs San Miguel [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756677600000-los-andes-san-miguel
-#EXTINF:-1 tvg-name="Pumas vs Atlas" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzB8wogAyUwKDSCnGYICCHM5T5kgWBIKfYbPoodbFFx3l6WWW8mWjBPelEIIA.webp" group-title="Football",10:00 PM - Pumas vs Atlas [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756677600000-unam-pumas-atlas
-#EXTINF:-1 tvg-name="Guarani vs General Caballero JLM" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",09:30 PM - Guarani vs General Caballero JLM [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756675800000-guarani-general-caballero-jlm
-#EXTINF:-1 tvg-name="Vitoria vs Atletico-MG" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",09:30 PM - Vitoria vs Atletico-MG [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756675800000-vitoria-atletico-mg
-#EXTINF:-1 tvg-name="Volta Redonda vs Athletic Club-MG" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBAN+cuiG4g+ICCBKnDIDUbMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football",09:30 PM - Volta Redonda vs Athletic Club-MG [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756675800000-volta-redonda-athletic-club
-#EXTINF:-1 tvg-name="Mirassol vs Bahia" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDFIheKNmG7aQfEBBAkzRkCg24QUgsCQU+w2fRRgVuvWXhEssrpMtGCeYqIQQA.webp" group-title="Football",09:30 PM - Mirassol vs Bahia [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756675800000-mirassol-ec-bahia
-#EXTINF:-1 tvg-name="Corinthians vs Palmeiras" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSBQh6iLJRDcQGiNs0hEJEJa0oCwJBT7DZ9FGBUou78vT2jPTLRg7mKiEEA.webp" group-title="Football",09:30 PM - Corinthians vs Palmeiras [Bravo] - (31/08/2025)
-https://streamed.pk/api/stream/bravo/1756675800000-corinthians-palmeiras
+#EXTINF:-1 tvg-name="National Rugby League: Redcliffe vs Gold Coast Titans" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Rugby",06:05 AM - National Rugby League: Redcliffe vs Gold Coast Titans [Hotel] - (01/09/2025)
+https://streamed.pk/api/stream/hotel/national-rugby-league-redcliffe-vs-gold-coast-titans
+#EXTINF:-1 tvg-name="Arjun Mehrotra - Lleyton Richards" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",05:51 AM - Arjun Mehrotra - Lleyton Richards [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/arjun-mehrotra-lleyton-richards
+#EXTINF:-1 tvg-name="Natthayut Nithithananont - Khomtat Kitthachok" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",05:42 AM - Natthayut Nithithananont - Khomtat Kitthachok [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/natthayut-nithithananont-khomtat-kitthachok
+#EXTINF:-1 tvg-name="AVP Beach Volleyball League Championship Live" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",05:30 AM - AVP Beach Volleyball League Championship Live [Hotel] - (01/09/2025)
+https://streamed.pk/api/stream/hotel/avp-beach-volleyball-league-championship-live
+#EXTINF:-1 tvg-name="Suk Ann - Penn Charusorn" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",05:01 AM - Suk Ann - Penn Charusorn [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/suk-ann-penn-charusorn
+#EXTINF:-1 tvg-name="AFL Women: Fremantle Dockers W vs North Melbourne Kangaroos W" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",05:00 AM - AFL Women: Fremantle Dockers W vs North Melbourne Kangaroos W [Hotel] - (01/09/2025)
+https://streamed.pk/api/stream/hotel/afl-women-fremantle-dockers-w-vs-north-melbourne-kangaroos-w
+#EXTINF:-1 tvg-name="Bunnings NPC: Waikato vs Southland" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Rugby",04:35 AM - Bunnings NPC: Waikato vs Southland [Hotel] - (01/09/2025)
+https://streamed.pk/api/stream/hotel/bunnings-npc-waikato-vs-southland
+#EXTINF:-1 tvg-name="Sohyun Park - Daria Kudashova" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",04:30 AM - Sohyun Park - Daria Kudashova [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/sohyun-park-daria-kudashova
+#EXTINF:-1 tvg-name="Yash Yadav - Eric Tripathi" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",04:23 AM - Yash Yadav - Eric Tripathi [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/yash-yadav-eric-tripathi
+#EXTINF:-1 tvg-name="Krittin Koaykul - Perawat Sukjai" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",04:13 AM - Krittin Koaykul - Perawat Sukjai [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/krittin-koaykul-perawat-sukjai
+#EXTINF:-1 tvg-name="Professional Fighters League" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",04:00 AM - Professional Fighters League [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/professional-fighters-league
+#EXTINF:-1 tvg-name="National Rugby League: Cronulla Sharks vs Newcastle Knights" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Rugby",04:00 AM - National Rugby League: Cronulla Sharks vs Newcastle Knights [Hotel] - (01/09/2025)
+https://streamed.pk/api/stream/hotel/national-rugby-league-cronulla-sharks-vs-newcastle-knights
+#EXTINF:-1 tvg-name="National Rugby League Women: Brisbane Broncos W vs Canterbury-Bankstown Bulldogs W" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Rugby",03:45 AM - National Rugby League Women: Brisbane Broncos W vs Canterbury-Bankstown Bulldogs W [Hotel] - (01/09/2025)
+https://streamed.pk/api/stream/hotel/national-rugby-league-women-brisbane-broncos-w-vs-canterbury-bankstown-bulldogs-w
+#EXTINF:-1 tvg-name="Rishabdev Raman - Kazuki Nishiwaki" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:14 AM - Rishabdev Raman - Kazuki Nishiwaki [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/rishabdev-raman-kazuki-nishiwaki
+#EXTINF:-1 tvg-name="Congsup Congcar - Tanakorn Srirat" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:13 AM - Congsup Congcar - Tanakorn Srirat [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/congsup-congcar-tanakorn-srirat
+#EXTINF:-1 tvg-name="Kristiana Sidorova - Elyse Tse" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:12 AM - Kristiana Sidorova - Elyse Tse [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/kristiana-sidorova-elyse-tse
+#EXTINF:-1 tvg-name="Joris Hoogland - Paritosh Pawar" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:11 AM - Joris Hoogland - Paritosh Pawar [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/joris-hoogland-paritosh-pawar
+#EXTINF:-1 tvg-name="Dong Ju Kim - Phopthum Sriwong" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:10 AM - Dong Ju Kim - Phopthum Sriwong [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/dong-ju-kim-phopthum-sriwong
+#EXTINF:-1 tvg-name="Natsumi Kawaguchi - Eun Ji Lee" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:09 AM - Natsumi Kawaguchi - Eun Ji Lee [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/natsumi-kawaguchi-eun-ji-lee
+#EXTINF:-1 tvg-name="Gunawan Trismuwantara - Shanker Heisnam" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:08 AM - Gunawan Trismuwantara - Shanker Heisnam [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/gunawan-trismuwantara-shanker-heisnam
+#EXTINF:-1 tvg-name="AFL Women: Collingwood Magpies W vs Melbourne Demons W" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",03:00 AM - AFL Women: Collingwood Magpies W vs Melbourne Demons W [Hotel] - (01/09/2025)
+https://streamed.pk/api/stream/hotel/afl-women-collingwood-magpies-w-vs-melbourne-demons-w
+#EXTINF:-1 tvg-name="Tijuana vs Necaxa" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVmxDAkYKSH3cQewzBAQQpnHpQg+BbRTsbZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",03:00 AM - Tijuana vs Necaxa [Bravo] - (01/09/2025)
+https://streamed.pk/api/stream/bravo/1756695600000-club-tijuana-necaxa
+#EXTINF:-1 tvg-name="Tijuana vs Necaxa" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVmxDAkYKSH3cQewzBAQQpnHpQg+BbRTsbZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",03:00 AM - Tijuana vs Necaxa [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/tijuana-necaxa
+#EXTINF:-1 tvg-name="Naoki Tajima - Natsuki Yamamoto" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",02:50 AM - Naoki Tajima - Natsuki Yamamoto [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/naoki-tajima-natsuki-yamamoto
+#EXTINF:-1 tvg-name="Los Angeles FC vs San Diego FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXApgABkgaQ3EHwNTjIMyZQgbUgsCQU+w2fRRgV2th-L0ss7SZaMA8xUQggA.webp" group-title="Football",02:45 AM - Los Angeles FC vs San Diego FC [Bravo] - (01/09/2025)
+https://streamed.pk/api/stream/bravo/1756694700000-los-angeles-fc-san-diego-fc
+#EXTINF:-1 tvg-name="Los Angeles FC vs San Diego FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXApgABkgaQ3EHwNTjIMyZQgbUgsCQU+w2fRRgV2th-L0ss7SZaMA8xUQggA.webp" group-title="Football",02:45 AM - Los Angeles FC vs San Diego FC [Hotel] - (01/09/2025)
+https://streamed.pk/api/stream/hotel/major-league-soccer-los-angeles-fc-vs-san-diego
+#EXTINF:-1 tvg-name="Los Angeles FC vs San Diego FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXApgABkgaQ3EHwNTjIMyZQgbUgsCQU+w2fRRgV2th-L0ss7SZaMA8xUQggA.webp" group-title="Football",02:45 AM - Los Angeles FC vs San Diego FC [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/los-angeles-fc-san-diego-fc
+#EXTINF:-1 tvg-name="Meiling Wang - Meiqi Guo" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",02:35 AM - Meiling Wang - Meiqi Guo [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/meiling-wang-meiqi-guo
+#EXTINF:-1 tvg-name="Diletta Cherubini - Ekaterina Reyngold" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",02:35 AM - Diletta Cherubini - Ekaterina Reyngold [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/diletta-cherubini-ekaterina-reyngold
+#EXTINF:-1 tvg-name="Ying Zhang - Alina Charaeva" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",02:30 AM - Ying Zhang - Alina Charaeva [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/ying-zhang-alina-charaeva
+#EXTINF:-1 tvg-name="Yexin Ma - En Shuo Liang" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",02:30 AM - Yexin Ma - En Shuo Liang [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/yexin-ma-en-shuo-liang
+#EXTINF:-1 tvg-name="Xinyu Gao - Anna Lena Friedsam" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",02:30 AM - Xinyu Gao - Anna Lena Friedsam [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/xinyu-gao-anna-lena-friedsam
+#EXTINF:-1 tvg-name="Raluca Georgiana Serban - Sara Saito" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",02:30 AM - Raluca Georgiana Serban - Sara Saito [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/raluca-georgiana-serban-sara-saito
+#EXTINF:-1 tvg-name="Han Shi - Maria Timofeeva" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",02:30 AM - Han Shi - Maria Timofeeva [Intel] - (01/09/2025)
+https://streamed.pk/api/stream/intel/han-shi-maria-timofeeva
 #EXTINF:-1 tvg-name="Darts TV: All Darts Championship" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",Darts TV: All Darts Championship
 https://streamed.pk/api/stream/alpha/darts-tv-all-darts-championship
 #EXTINF:-1 tvg-name="PGA Tour 2025" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",PGA Tour 2025
@@ -238,8 +80,6 @@ https://streamed.pk/api/stream/alpha/fox-nrl-tv
 https://streamed.pk/api/stream/alpha/us-open
 #EXTINF:-1 tvg-name="US Open" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",US Open
 https://streamed.pk/api/stream/charlie/stadium-17-1629460085
-#EXTINF:-1 tvg-name="US Open" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",US Open
-https://streamed.pk/api/stream/intel/u-s-open
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",Tennis Channel
 https://streamed.pk/api/stream/alpha/tennis-channel
 #EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",WWE Network
@@ -268,40 +108,12 @@ https://streamed.pk/api/stream/alpha/nfl-redzone
 https://streamed.pk/api/stream/alpha/nfl-network
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",ESPN
 https://streamed.pk/api/stream/alpha/espn
-#EXTINF:-1 tvg-name="LFC TV | Liverpool FC TV" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",LFC TV | Liverpool FC TV
-https://streamed.pk/api/stream/alpha/lfc-tv-liverpool-fc-tv
 #EXTINF:-1 tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",Sky Sports News | SSN Breaking Sports News
 https://streamed.pk/api/stream/alpha/sky-sports-news-ssn-breaking-sports-news
 #EXTINF:-1 tvg-name="ESPN First Take" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",ESPN First Take
 https://streamed.pk/api/stream/alpha/espn-first-take
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="24/7 Live",NBA TV
 https://streamed.pk/api/stream/alpha/nba-tv
-#EXTINF:-1 tvg-name="Arthur Ashe: Elena Rybakina vs Marketa Vondrousova" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",01:30 AM - Arthur Ashe: Elena Rybakina vs Marketa Vondrousova [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/arthur-ashe-elena-rybakina-vs-marketa-vondrousova
-#EXTINF:-1 tvg-name="Arthur Ashe: Elena Rybakina vs Marketa Vondrousova" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",01:30 AM - Arthur Ashe: Elena Rybakina vs Marketa Vondrousova [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756688400000-us-open-arthur-ashe-stadium-rybakina-vondrousova
-#EXTINF:-1 tvg-name="Arthur Ashe: Elena Rybakina vs Marketa Vondrousova" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",01:30 AM - Arthur Ashe: Elena Rybakina vs Marketa Vondrousova [Intel] - (01/09/2025)
-https://streamed.pk/api/stream/intel/elena-rybakina-marketa-vondrousova
-#EXTINF:-1 tvg-name="Motagua vs Real Espana" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",01:30 AM - Motagua vs Real Espana [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/motagua-vs-real-espana
-#EXTINF:-1 tvg-name="Motagua vs Real Espana" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",01:30 AM - Motagua vs Real Espana [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756690200000-motagua-real-espana
-#EXTINF:-1 tvg-name="Real Monarchs vs Tacoma Defiance" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRFkpgBKNiG4g+IGCFMR9IEpYtSCwJBT7DZ9FGBW6278vU2jdTLRg7mKiEEA.webp" group-title="Football",01:30 AM - Real Monarchs vs Tacoma Defiance [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756690200000-real-monarchs-slc-tacoma-defiance
-#EXTINF:-1 tvg-name="Xelajú vs Marquense" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",02:00 AM - Xelajú vs Marquense [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756692000000-xelaju-marquense
-#EXTINF:-1 tvg-name="Ventura County vs North Texas SC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUd1hgkwGVJDcQfEIhAmDZkBHN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",02:00 AM - Ventura County vs North Texas SC [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756692000000-ventura-county-north-texas
-#EXTINF:-1 tvg-name="Los Angeles FC vs San Diego FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXApgABkgaQ3EHwNTjIMyZQgbUgsCQU+w2fRRgV2th-L0ss7SZaMA8xUQggA.webp" group-title="Football",02:45 AM - Los Angeles FC vs San Diego FC [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/lafc-vs-san-diego-fc
-#EXTINF:-1 tvg-name="Los Angeles FC vs San Diego FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXApgABkgaQ3EHwNTjIMyZQgbUgsCQU+w2fRRgV2th-L0ss7SZaMA8xUQggA.webp" group-title="Football",02:45 AM - Los Angeles FC vs San Diego FC [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756694700000-los-angeles-fc-san-diego-fc
-#EXTINF:-1 tvg-name="Los Angeles FC vs San Diego FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXApgABkgaQ3EHwNTjIMyZQgbUgsCQU+w2fRRgV2th-L0ss7SZaMA8xUQggA.webp" group-title="Football",02:45 AM - Los Angeles FC vs San Diego FC [Charlie] - (01/09/2025)
-https://streamed.pk/api/stream/charlie/los-angeles-fc-vs-san-diego-1326737
-#EXTINF:-1 tvg-name="Tijuana vs Necaxa" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVmxDAkYKSH3cQewzBAQQpnHpQg+BbRTsbZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",03:00 AM - Tijuana vs Necaxa [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/tijuana-vs-necaxa
-#EXTINF:-1 tvg-name="Tijuana vs Necaxa" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVmxDAkYKSH3cQewzBAQQpnHpQg+BbRTsbZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",03:00 AM - Tijuana vs Necaxa [Bravo] - (01/09/2025)
-https://streamed.pk/api/stream/bravo/1756695600000-club-tijuana-necaxa
 #EXTINF:-1 tvg-name="USA Volleyball Women vs Canada Volleyball Women" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzDgBABiLruGkCRBSQEUyENmL8AsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Other",10:00 AM - USA Volleyball Women vs Canada Volleyball Women [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/usa-w-vs-canada-w
 #EXTINF:-1 tvg-name="Sweden Basketball vs Montenegro Basketball" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDC61gYPiG4g9JfSZQgpIGOdwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Basketball",10:30 AM - Sweden Basketball vs Montenegro Basketball [Alpha] - (01/09/2025)
@@ -316,6 +128,8 @@ https://streamed.pk/api/stream/alpha/estonia-vs-turkey
 https://streamed.pk/api/stream/alpha/bangladesh-vs-netherlands
 #EXTINF:-1 tvg-name="Bangladesh vs Netherlands" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",12:00 PM - Bangladesh vs Netherlands [Charlie] - (01/09/2025)
 https://streamed.pk/api/stream/charlie/bangladesh-vs-netherlands-1629459208
+#EXTINF:-1 tvg-name="India vs Iran" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 PM - India vs Iran [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/india-vs-iran
 #EXTINF:-1 tvg-name="Turkey Volleyball Women vs Slovenia Volleyball Women" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSA3g4IEIm4g+IEppARTBjeb4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp" group-title="Other",01:30 PM - Turkey Volleyball Women vs Slovenia Volleyball Women [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/turkey-w-vs-slovenia-w
 #EXTINF:-1 tvg-name="Germany Basketball vs Great Britain Basketball" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAPXgkuBiG4aQJfSZQgpIGEZAgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Basketball",01:30 PM - Germany Basketball vs Great Britain Basketball [Alpha] - (01/09/2025)
@@ -324,14 +138,30 @@ https://streamed.pk/api/stream/alpha/germany-vs-great-britain
 https://streamed.pk/api/stream/charlie/germany-vs-great-britain-1629460071
 #EXTINF:-1 tvg-name="PL Transfer Deadline Show" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",02:00 PM - PL Transfer Deadline Show [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/pl-transfer-deadline-show
+#EXTINF:-1 tvg-name="UTSA Football Press Conference" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",02:30 PM - UTSA Football Press Conference [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/utsa-football-press-conference
 #EXTINF:-1 tvg-name="Afghanistan and Pakistan tour of UAE: Afghanistan vs United Arab Emirates" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Cricket",03:00 PM - Afghanistan and Pakistan tour of UAE: Afghanistan vs United Arab Emirates [Charlie] - (01/09/2025)
 https://streamed.pk/api/stream/charlie/afghanistan-vs-united-arab-emirates-1629459209
 #EXTINF:-1 tvg-name="US Open: Louis Armstrong Stadium" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - US Open: Louis Armstrong Stadium [Charlie] - (01/09/2025)
 https://streamed.pk/api/stream/charlie/louis-armstrong-stadium-1629460079
+#EXTINF:-1 tvg-name="Court 17: Xu Yifan/Yang Zhaoxuan vs Timea Babos/Luisa Stefani" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Court 17: Xu Yifan/Yang Zhaoxuan vs Timea Babos/Luisa Stefani [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/court-17-xu-yifan-yang-zhaoxuan-vs-timea-babos-luisa-stefani
+#EXTINF:-1 tvg-name="Grandstand: Robert Cash/James Tracy vs Simone Bolelli/Andrea Vavassori" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Grandstand: Robert Cash/James Tracy vs Simone Bolelli/Andrea Vavassori [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/grandstand-robert-cash-james-tracy-vs-simone-bolelli-andrea-vavassori
+#EXTINF:-1 tvg-name="Grandstand: Cooper Williams/Theodore Winegar vs Kevin Krawietz/Tim Putz" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Grandstand: Cooper Williams/Theodore Winegar vs Kevin Krawietz/Tim Putz [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/grandstand-cooper-williams-theodore-winegar-vs-kevin-krawietz-tim-putz
+#EXTINF:-1 tvg-name="Grandstand: Marta Kostyuk vs Karolina Muchova" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Grandstand: Marta Kostyuk vs Karolina Muchova [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/grandstand-marta-kostyuk-vs-karolina-muchova
+#EXTINF:-1 tvg-name="Louis Armstrong: Leandro Riedi vs Alexde Minau" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Louis Armstrong: Leandro Riedi vs Alexde Minau [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/louis-armstrong-leandro-riedi-vs-alexde-minau
+#EXTINF:-1 tvg-name="Press Conferences Day 9" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Press Conferences Day 9 [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/press-conferences-day-9
 #EXTINF:-1 tvg-name="Men's & Women's Round of 16" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:00 PM - Men's & Women's Round of 16 [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/men-s-women-s-round-of-16
 #EXTINF:-1 tvg-name="Csikszereda vs Otelul Galati" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",03:00 PM - Csikszereda vs Otelul Galati [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/csikszereda-vs-otelul-galati
+#EXTINF:-1 tvg-name="Dravinja vs Nafta" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",03:00 PM - Dravinja vs Nafta [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/dravinja-vs-nafta
 #EXTINF:-1 tvg-name="Trinbago Knight Riders vs St Kitts and Nevis Patriots" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbrmpTYYEiA18QenIcRSjIGCAVMkFPsNn0Uutii67y9LLPdNaYK70ohBAA.webp" group-title="Cricket",03:00 PM - Trinbago Knight Riders vs St Kitts and Nevis Patriots [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/trinbago-knight-riders-vs-st-kitts-nevis-patriots
 #EXTINF:-1 tvg-name="Trinbago Knight Riders vs St Kitts and Nevis Patriots" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbrmpTYYEiA18QenIcRSjIGCAVMkFPsNn0Uutii67y9LLPdNaYK70ohBAA.webp" group-title="Cricket",03:00 PM - Trinbago Knight Riders vs St Kitts and Nevis Patriots [Charlie] - (01/09/2025)
@@ -342,14 +172,32 @@ https://streamed.pk/api/stream/alpha/portugal-vs-latvia
 https://streamed.pk/api/stream/charlie/portugal-vs-latvia-1629460072
 #EXTINF:-1 tvg-name="US Open: Arthur Ashe Stadium" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:30 PM - US Open: Arthur Ashe Stadium [Charlie] - (01/09/2025)
 https://streamed.pk/api/stream/charlie/arthur-ashe-stadium-1629460089
+#EXTINF:-1 tvg-name="Arthur Ashe: FelixAuger Aliassime vs Andrey Rublev" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",03:30 PM - Arthur Ashe: FelixAuger Aliassime vs Andrey Rublev [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/arthur-ashe-felixauger-aliassime-vs-andrey-rublev
 #EXTINF:-1 tvg-name="Afghanistan vs Tajikistan" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",03:30 PM - Afghanistan vs Tajikistan [Alpha] - (01/09/2025)
-https://streamed.pk/api/stream/alpha/united-arab-emirates-vs-afghanistan
+https://streamed.pk/api/stream/alpha/afghanistan-vs-tajikistan
 #EXTINF:-1 tvg-name="Horse Racing: Saratoga Live" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",04:00 PM - Horse Racing: Saratoga Live [Charlie] - (01/09/2025)
 https://streamed.pk/api/stream/charlie/saratoga-live-1629460091
 #EXTINF:-1 tvg-name="NHRA Drag Racing Indianapolis Nationals Finals Round 1" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",04:00 PM - NHRA Drag Racing Indianapolis Nationals Finals Round 1 [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/nhra-drag-racing-indianapolis-nationals-finals-round-1
 #EXTINF:-1 tvg-name="NHRA Drag Racing Indianapolis Nationals Finals Round 1" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",04:00 PM - NHRA Drag Racing Indianapolis Nationals Finals Round 1 [Charlie] - (01/09/2025)
 https://streamed.pk/api/stream/charlie/indianapolis-round-1-1629460090
+#EXTINF:-1 tvg-name="K.C. Keeler Weekly Press Conference" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",04:00 PM - K.C. Keeler Weekly Press Conference [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/k-c-keeler-weekly-press-conference
+#EXTINF:-1 tvg-name="Scott Frost Press Conference" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",04:00 PM - Scott Frost Press Conference [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/scott-frost-press-conference
+#EXTINF:-1 tvg-name="UEFA Youth League League Phase Draw" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",04:00 PM - UEFA Youth League League Phase Draw [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/uefa-youth-league-league-phase-draw
+#EXTINF:-1 tvg-name="Court 17: Shuko Aoyama/Yafan Wang vs Mirra Andreeva/Diana Shnaider" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",04:30 PM - Court 17: Shuko Aoyama/Yafan Wang vs Mirra Andreeva/Diana Shnaider [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/court-17-shuko-aoyama-yafan-wang-vs-mirra-andreeva-diana-shnaider
+#EXTINF:-1 tvg-name="Court 12: Francisco Cabral/Lucas Miedler vs Adam Pavlasek/Jan Zielinski" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",04:30 PM - Court 12: Francisco Cabral/Lucas Miedler vs Adam Pavlasek/Jan Zielinski [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/court-12-francisco-cabral-lucas-miedler-vs-adam-pavlasek-jan-zielinski
+#EXTINF:-1 tvg-name="Court 11: Yuki Bhambri/Michael Venus vs Gonzalo Escobar/Miguel-Angel Reyes-Varela" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",04:30 PM - Court 11: Yuki Bhambri/Michael Venus vs Gonzalo Escobar/Miguel-Angel Reyes-Varela [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/court-11-yuki-bhambri-michael-venus-vs-gonzalo-escobar-miguel-angel-reyes-varela
+#EXTINF:-1 tvg-name="Louis Armstrong: Ekaterina Alexandrova vs Iga Swiatek" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",05:00 PM - Louis Armstrong: Ekaterina Alexandrova vs Iga Swiatek [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/louis-armstrong-ekaterina-alexandrova-vs-iga-swiatek
+#EXTINF:-1 tvg-name="Mike Gundy Press Conference" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",05:00 PM - Mike Gundy Press Conference [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/mike-gundy-press-conference
 #EXTINF:-1 tvg-name="Arda vs Beroe" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",05:00 PM - Arda vs Beroe [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/arda-vs-beroe
 #EXTINF:-1 tvg-name="Mačva Šabac vs Borac 1926 Čačak" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEMCRgBVaSG4g+IEiERSQMYyAjWQIApop9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football",05:00 PM - Mačva Šabac vs Borac 1926 Čačak [Alpha] - (01/09/2025)
@@ -372,6 +220,10 @@ https://streamed.pk/api/stream/charlie/toronto-blue-jays-vs-cincinnati-reds-1629
 https://streamed.pk/api/stream/alpha/detroit-tigers-vs-new-york-mets
 #EXTINF:-1 tvg-name="Detroit Tigers vs New York Mets" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBl9sIOCRDcQGmJtMoQ5iEYMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Baseball",05:10 PM - Detroit Tigers vs New York Mets [Charlie] - (01/09/2025)
 https://streamed.pk/api/stream/charlie/new-york-mets-vs-detroit-tigers-1629460094
+#EXTINF:-1 tvg-name="Arthur Ashe: Naomi Osaka vs Coco Gauff" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",05:30 PM - Arthur Ashe: Naomi Osaka vs Coco Gauff [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/arthur-ashe-naomi-osaka-vs-coco-gauff
+#EXTINF:-1 tvg-name="Chris Klieman Press Conference" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",05:30 PM - Chris Klieman Press Conference [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/chris-klieman-press-conference
 #EXTINF:-1 tvg-name="Huesca vs Eibar" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiHooQogAz8Q3EBpI7NuEDBDbEUgsCQU+w2VrAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football",05:30 PM - Huesca vs Eibar [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/huesca-vs-eibar
 #EXTINF:-1 tvg-name="Huesca vs Eibar" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiHooQogAz8Q3EBpI7NuEDBDbEUgsCQU+w2VrAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football",05:30 PM - Huesca vs Eibar [Charlie] - (01/09/2025)
@@ -384,10 +236,20 @@ https://streamed.pk/api/stream/charlie/finland-vs-lithuania-1629460097
 https://streamed.pk/api/stream/alpha/boston-red-sox-vs-cleveland-guardians
 #EXTINF:-1 tvg-name="Boston Red Sox vs Cleveland Guardians" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBkgQAvmD4gNBjTFwhEEEKe1SCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Baseball",05:35 PM - Boston Red Sox vs Cleveland Guardians [Charlie] - (01/09/2025)
 https://streamed.pk/api/stream/charlie/cleveland-guardians-vs-boston-red-sox-1629460096
+#EXTINF:-1 tvg-name="Court 5: Cristina Bucsa/Nicole Melichar-Martinez vs Gabriela Dabrowski/Erin Routliffe" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",06:00 PM - Court 5: Cristina Bucsa/Nicole Melichar-Martinez vs Gabriela Dabrowski/Erin Routliffe [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/court-5-cristina-bucsa-nicole-melichar-martinez-vs-gabriela-dabrowski-erin-routliffe
+#EXTINF:-1 tvg-name="Court 11: Asia Muhammad/Demi Schuurs vs Anna Danilina/Aleksandra Krunic" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",06:00 PM - Court 11: Asia Muhammad/Demi Schuurs vs Anna Danilina/Aleksandra Krunic [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/court-11-asia-muhammad-demi-schuurs-vs-anna-danilina-aleksandra-krunic
+#EXTINF:-1 tvg-name="Court 12: Tomas Machac/Matej Vocel vs Marcelo Arevalo Gonzalez/Mate Pavic" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",06:00 PM - Court 12: Tomas Machac/Matej Vocel vs Marcelo Arevalo Gonzalez/Mate Pavic [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/court-12-tomas-machac-matej-vocel-vs-marcelo-arevalo-gonzalez-mate-pavic
+#EXTINF:-1 tvg-name="Court 17: Mackenzie Mcdonald/Ethan Quinn vs Marcel Granollers/Horacio Zeballos" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",06:00 PM - Court 17: Mackenzie Mcdonald/Ethan Quinn vs Marcel Granollers/Horacio Zeballos [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/court-17-mackenzie-mcdonald-ethan-quinn-vs-marcel-granollers-horacio-zeballos
 #EXTINF:-1 tvg-name="NHRA Cornwell Quality Tools U.S. Nationals" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",06:00 PM - NHRA Cornwell Quality Tools U.S. Nationals [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/nhra-cornwell-quality-tools-u-s-nationals
 #EXTINF:-1 tvg-name="NHRA Cornwell Quality Tools U.S. Nationals" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Motor Sports",06:00 PM - NHRA Cornwell Quality Tools U.S. Nationals [Charlie] - (01/09/2025)
 https://streamed.pk/api/stream/charlie/cornwell-quality-tools-us-nationals-1629460100
+#EXTINF:-1 tvg-name="Coordinator's Corner" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",06:00 PM - Coordinator's Corner [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/coordinator-s-corner
 #EXTINF:-1 tvg-name="Dubocica vs FAP" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",06:00 PM - Dubocica vs FAP [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/dubocica-vs-fap
 #EXTINF:-1 tvg-name="FC Farul Constanta vs Petrolul Ploiesti" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",06:00 PM - FC Farul Constanta vs Petrolul Ploiesti [Alpha] - (01/09/2025)
@@ -410,16 +272,34 @@ https://streamed.pk/api/stream/alpha/serbia-vs-czech-republic
 https://streamed.pk/api/stream/alpha/st-louis-cardinals-vs-athletics
 #EXTINF:-1 tvg-name="St. Louis Cardinals vs Athletics" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Baseball",06:15 PM - St. Louis Cardinals vs Athletics [Charlie] - (01/09/2025)
 https://streamed.pk/api/stream/charlie/athletics-vs-st-louis-cardinals-1629460101
+#EXTINF:-1 tvg-name="Louis Armstrong: Lorenzo Musetti vs Jaume Munar" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",06:30 PM - Louis Armstrong: Lorenzo Musetti vs Jaume Munar [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/louis-armstrong-lorenzo-musetti-vs-jaume-munar
 #EXTINF:-1 tvg-name="HFX Wanderer vs York Utd" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",07:00 PM - HFX Wanderer vs York Utd [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/hfx-wanderer-vs-york-utd
 #EXTINF:-1 tvg-name="HFX Wanderers vs York United" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcEgQNIIEiG4g+ICLpAxTORAYlNNMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football",07:00 PM - HFX Wanderers vs York United [Charlie] - (01/09/2025)
 https://streamed.pk/api/stream/charlie/hfx-wanderers-fc-vs-york-united-1350774
+#EXTINF:-1 tvg-name="2025 WSL Championship Tour: WSL Finals Fiji" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",07:30 PM - 2025 WSL Championship Tour: WSL Finals Fiji [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/2025-wsl-championship-tour-wsl-finals-fiji
+#EXTINF:-1 tvg-name="Court 12: Veronika Kudermetova/Elise Mertens vs Marta Kostyuk/Elena-Gabriela Ruse" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",07:30 PM - Court 12: Veronika Kudermetova/Elise Mertens vs Marta Kostyuk/Elena-Gabriela Ruse [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/court-12-veronika-kudermetova-elise-mertens-vs-marta-kostyuk-elena-gabriela-ruse
+#EXTINF:-1 tvg-name="Court 17: Fanny Stollar/Fang-Hsien Wu vs Jasmine Paolini/Sara Errani" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",07:30 PM - Court 17: Fanny Stollar/Fang-Hsien Wu vs Jasmine Paolini/Sara Errani [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/court-17-fanny-stollar-fang-hsien-wu-vs-jasmine-paolini-sara-errani
+#EXTINF:-1 tvg-name="Court 5: Rafael Matos/Marcelo Melo vs Sadio Doumbia/Fabien Reboul" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",07:30 PM - Court 5: Rafael Matos/Marcelo Melo vs Sadio Doumbia/Fabien Reboul [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/court-5-rafael-matos-marcelo-melo-vs-sadio-doumbia-fabien-reboul
+#EXTINF:-1 tvg-name="Court 11: Maximo Gonzalez/Andres Molteni vs Cleeve Harper/Jean Julien Rojer" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",07:30 PM - Court 11: Maximo Gonzalez/Andres Molteni vs Cleeve Harper/Jean Julien Rojer [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/court-11-maximo-gonzalez-andres-molteni-vs-cleeve-harper-jean-julien-rojer
 #EXTINF:-1 tvg-name="Leganes vs Deportivo La Coruna" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",07:30 PM - Leganes vs Deportivo La Coruna [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/leganes-vs-deportivo-la-coruna
 #EXTINF:-1 tvg-name="Hamilton Tiger-Cats vs Toronto Argonauts" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGG4hRIBppBapIRDBAptICLktmCwJBT7DZ9DSpRcwZeESyyPTLRgXmKiEEA.webp" group-title="American Football",07:30 PM - Hamilton Tiger-Cats vs Toronto Argonauts [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/hamilton-tiger-cats-vs-toronto-argonauts
+#EXTINF:-1 tvg-name="Grandstand: Taylor Townsend/Katerina Siniakova vs Yue Yuan/Maria Camila Osorio" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",08:00 PM - Grandstand: Taylor Townsend/Katerina Siniakova vs Yue Yuan/Maria Camila Osorio [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/grandstand-taylor-townsend-katerina-siniakova-vs-yue-yuan-maria-camila-osorio
+#EXTINF:-1 tvg-name="Kyle Whittingham Press Conference" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",08:00 PM - Kyle Whittingham Press Conference [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/kyle-whittingham-press-conference
 #EXTINF:-1 tvg-name="Gimnasia La Plata vs Atletico Tucuman" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",08:00 PM - Gimnasia La Plata vs Atletico Tucuman [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/gimnasia-la-plata-vs-atletico-tucuman
+#EXTINF:-1 tvg-name="Tigres vs Cucuta" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",08:00 PM - Tigres vs Cucuta [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/tigres-vs-cucuta
 #EXTINF:-1 tvg-name="Chicago Cubs vs Atlanta Braves" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGSh5gyWMEhDcQfAyEQgQUkBBAwQJUwWBIKfYbPoptbTW23l6WLKaTLRgXvSiEEA.webp" group-title="Baseball",08:05 PM - Chicago Cubs vs Atlanta Braves [Alpha] - (01/09/2025)
 https://streamed.pk/api/stream/alpha/chicago-cubs-vs-atlanta-braves
 #EXTINF:-1 tvg-name="Chicago Cubs vs Atlanta Braves" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGSh5gyWMEhDcQfAyEQgQUkBBAwQJUwWBIKfYbPoptbTW23l6WLKaTLRgXvSiEEA.webp" group-title="Baseball",08:05 PM - Chicago Cubs vs Atlanta Braves [Charlie] - (01/09/2025)
@@ -434,13 +314,57 @@ https://streamed.pk/api/stream/alpha/milwaukee-brewers-vs-philadelphia-phillies
 https://streamed.pk/api/stream/charlie/philadelphia-phillies-vs-milwaukee-brewers-1629460105
 #EXTINF:-1 tvg-name="Women's College Volleyball: Penn State vs TCU" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Other",09:00 PM - Women's College Volleyball: Penn State vs TCU [Charlie] - (01/09/2025)
 https://streamed.pk/api/stream/charlie/penn-state-vs-tcu-1629460106
+#EXTINF:-1 tvg-name="Louis Armstrong: Ekaterina Alexandrova/Zhang Shuai vs Leylah Fernandez/Venus Williams" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",09:00 PM - Louis Armstrong: Ekaterina Alexandrova/Zhang Shuai vs Leylah Fernandez/Venus Williams [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/louis-armstrong-ekaterina-alexandrova-zhang-shuai-vs-leylah-fernandez-venus-williams
+#EXTINF:-1 tvg-name="Willie Simmons Coach's Show" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Afl",10:00 PM - Willie Simmons Coach's Show [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/willie-simmons-coach-s-show
+#EXTINF:-1 tvg-name="Cerro Largo vs Montevideo Wanderers" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",10:00 PM - Cerro Largo vs Montevideo Wanderers [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/cerro-largo-vs-wanderers
+#EXTINF:-1 tvg-name="Chapecoense vs Vila Nova" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVkhAyADF0TcQfEBBAlThkCgsnGwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Football",10:00 PM - Chapecoense vs Vila Nova [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/chapecoense-vs-vila-nova
+#EXTINF:-1 tvg-name="Barranquilla FC vs Internacional de Palmira" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",10:15 PM - Barranquilla FC vs Internacional de Palmira [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/barranquilla-vs-inter-palmira
+#EXTINF:-1 tvg-name="Platense vs Godoy Cruz" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLMAAMYFLhD1Q3EHxBGS+0yESIIIEAWBIKfYbPoowKlF0-l6G0W8mWjBPMVEIIA.webp" group-title="Football",10:15 PM - Platense vs Godoy Cruz [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/platense-vs-godoy-cruz-antonio-tomba
+#EXTINF:-1 tvg-name="San Diego Padres vs Baltimore Orioles" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VegAYQfEDNAoQ3XdpAkQBnTqnGYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Baseball",10:40 PM - San Diego Padres vs Baltimore Orioles [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/san-diego-padres-vs-baltimore-orioles
 #EXTINF:-1 tvg-name="San Diego Padres vs Baltimore Orioles" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VegAYQfEDNAoQ3XdpAkQBnTqnGYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Baseball",10:40 PM - San Diego Padres vs Baltimore Orioles [Charlie] - (01/09/2025)
 https://streamed.pk/api/stream/charlie/baltimore-orioles-vs-san-diego-padres-1629460107
+#EXTINF:-1 tvg-name="Atlético Huila vs Real Cartagena" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECFqjuIGVJA79JEHxDGImkDBMmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football",10:45 PM - Atlético Huila vs Real Cartagena [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/huila-vs-cartagena
+#EXTINF:-1 tvg-name="Arthur Ashe: Jannik Sinner vs Alexander Bublik" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",11:00 PM - Arthur Ashe: Jannik Sinner vs Alexander Bublik [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/arthur-ashe-jannik-sinner-vs-alexander-bublik
+#EXTINF:-1 tvg-name="Calgary Stampeders vs Edmonton Elks" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCFFIQfMEmYhuIKZpAacfEIhDHNBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="American Football",11:00 PM - Calgary Stampeders vs Edmonton Elks [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/calgary-stampeders-vs-edmonton-elks
+#EXTINF:-1 tvg-name="Tampa Bay Rays vs Seattle Mariners" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCClgSIFMQ3cQfEIZ0gQEXVdMFgSCn2Gz6KbWz1tt5elll6mtGBu9KIQQA.webp" group-title="Baseball",11:35 PM - Tampa Bay Rays vs Seattle Mariners [Alpha] - (01/09/2025)
+https://streamed.pk/api/stream/alpha/tampa-bay-rays-vs-seattle-mariners
 #EXTINF:-1 tvg-name="Tampa Bay Rays vs Seattle Mariners" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCClgSIFMQ3cQfEIZ0gQEXVdMFgSCn2Gz6KbWz1tt5elll6mtGBu9KIQQA.webp" group-title="Baseball",11:35 PM - Tampa Bay Rays vs Seattle Mariners [Charlie] - (01/09/2025)
 https://streamed.pk/api/stream/charlie/seattle-mariners-vs-tampa-bay-rays-1629460108
+#EXTINF:-1 tvg-name="Monday Night RAW" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Fight",12:00 AM - Monday Night RAW [Alpha] - (02/09/2025)
+https://streamed.pk/api/stream/alpha/monday-night-raw
+#EXTINF:-1 tvg-name="Atlas W vs Mazatlan FC W" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:00 AM - Atlas W vs Mazatlan FC W [Alpha] - (02/09/2025)
+https://streamed.pk/api/stream/alpha/atlas-w-vs-mazatlan-fc-w
+#EXTINF:-1 tvg-name="Minnesota Lynx vs Dallas Wings" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXMAAMkEDDYgD3EHxAQQJEFJApjuAwYLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Basketball",12:00 AM - Minnesota Lynx vs Dallas Wings [Alpha] - (02/09/2025)
+https://streamed.pk/api/stream/alpha/minnesota-lynx-w-vs-dallas-wings-w
 #EXTINF:-1 tvg-name="Minnesota Lynx vs Dallas Wings" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXMAAMkEDDYgD3EHxAQQJEFJApjuAwYLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Basketball",12:00 AM - Minnesota Lynx vs Dallas Wings [Charlie] - (02/09/2025)
 https://streamed.pk/api/stream/charlie/dallas-wings-vs-minnesota-lynx-1629460111
+#EXTINF:-1 tvg-name="North Carolina vs TCU" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="American Football",12:00 AM - North Carolina vs TCU [Alpha] - (02/09/2025)
+https://streamed.pk/api/stream/alpha/tcu-vs-north-carolina
+#EXTINF:-1 tvg-name="Arizona Diamondbacks vs Texas Rangers" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMAAMwMCD7UYIbnqMhEIEFLMmSegsCQU+w2fRRgVGth-L0ssjSZaMA8xUQggA.webp" group-title="Baseball",12:10 AM - Arizona Diamondbacks vs Texas Rangers [Alpha] - (02/09/2025)
+https://streamed.pk/api/stream/alpha/arizona-diamondbacks-vs-texas-rangers
 #EXTINF:-1 tvg-name="Arizona Diamondbacks vs Texas Rangers" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMAAMwMCD7UYIbnqMhEIEFLMmSegsCQU+w2fRRgVGth-L0ssjSZaMA8xUQggA.webp" group-title="Baseball",12:10 AM - Arizona Diamondbacks vs Texas Rangers [Charlie] - (02/09/2025)
 https://streamed.pk/api/stream/charlie/texas-rangers-vs-arizona-diamondbacks-1629460110
+#EXTINF:-1 tvg-name="Ferro vs Racing Cordoba" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:15 AM - Ferro vs Racing Cordoba [Alpha] - (02/09/2025)
+https://streamed.pk/api/stream/alpha/ferro-vs-racing-cordoba
+#EXTINF:-1 tvg-name="Ferroviaria vs Cuiaba" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Football",12:30 AM - Ferroviaria vs Cuiaba [Alpha] - (02/09/2025)
+https://streamed.pk/api/stream/alpha/ferroviaria-vs-cuiaba
+#EXTINF:-1 tvg-name="Independiente Santa Fe vs Once Caldas" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLA2wgpICCBIhu2kH327DuYwcbAkFPsNn0UYFSi6vy9DaPdNaYK5iohBAA.webp" group-title="Football",12:30 AM - Independiente Santa Fe vs Once Caldas [Alpha] - (02/09/2025)
+https://streamed.pk/api/stream/alpha/santa-fe-vs-once-caldas
+#EXTINF:-1 tvg-name="Arthur Ashe: Amanda Anisimova vs Beatriz Haddad Maia" tvg-logo="https://streamed.pk/api/images/poster/fallback.webp" group-title="Tennis",01:00 AM - Arthur Ashe: Amanda Anisimova vs Beatriz Haddad Maia [Alpha] - (02/09/2025)
+https://streamed.pk/api/stream/alpha/arthur-ashe-amanda-anisimova-vs-beatriz-haddad-maia
+#EXTINF:-1 tvg-name="Angel City vs Bay FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBiywIXju4g+ICLl1mQG0xKZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football",01:00 AM - Angel City vs Bay FC [Alpha] - (02/09/2025)
+https://streamed.pk/api/stream/alpha/angel-city-w-vs-bay-fc-w
 #EXTINF:-1 tvg-name="Angel City vs Bay FC" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBiywIXju4g+ICLl1mQG0xKZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football",01:00 AM - Angel City vs Bay FC [Charlie] - (02/09/2025)
 https://streamed.pk/api/stream/charlie/angel-city-w-vs-bay-fc-1339371
+#EXTINF:-1 tvg-name="Seattle Storm vs Los Angeles Sparks" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJnzBIQA2qG46QEECRBSQKQzkswCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Basketball",02:00 AM - Seattle Storm vs Los Angeles Sparks [Charlie] - (02/09/2025)
+https://streamed.pk/api/stream/charlie/los-angeles-sparks-vs-seattle-storm-1629460112
